@@ -5,6 +5,7 @@ Each zip has a .pak, .sig, utoc, and .ucas file. The map's files can't be access
 As of now I will not be sharing how to load these in the editor as it can be used as an exploit to access UEFN creators maps.
 
 Fortnite Reload wasn't streamed from the servers until 32.00 when Reload Oasis was added.
+Fortnite Reload as of 36.30+ downloads a base set of paks for the lighting.
 
 
 # Blitz Royale 
@@ -25,6 +26,7 @@ Fortnite Reload wasn't streamed from the servers until 32.00 when Reload Oasis w
 | Reload Oasis (Oasis Only)        	 |  11-21-24	   	 | ++Fortnite+Release-32.11	    |		[Download](https://drive.google.com/file/d/1sVA0A-NhmGL4kj7Ayx0Qt7vquGslf_9D/view?usp=sharing) |
 | Reload Slurp-Rush (Slurp-Rush Only)        	 |  4-15-25	   	 | ++Fortnite+Release-34.30	    |		[Download](https://drive.google.com/file/d/1kdvt7cCed4rRRlAPiHZAES2j6D46Mdxf/view?usp=sharing) |
 | Reload Squid Game (All Maps)        	 |  6-27-25	   	 | ++Fortnite+Release-36.10	    |		[Download](https://drive.google.com/file/d/1iYFsSAhOIDFAeN-NFNCcGbTcKfV_JRff/view?usp=sharing) |
+| Reload (All Maps)        	 |  7-29-25	   	 | ++Fortnite+Release-36.30	    |		[Download](https://drive.google.com/file/d/1AHf0liOhuEGbmGze9GY-B-KSTWHCvaAm/view?usp=sharing) |
 
 # Concerts / Events 
 | Update                  	 | Date          	 | Game Version	    |		    Download links        |
