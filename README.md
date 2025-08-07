@@ -18,6 +18,7 @@ Fortnite Reload as of 36.30+ downloads a base set of paks for the lighting.
 | Mega City POI - Ninja       	 |  7-31-25	   	 | ++Fortnite+Release-36.30	    |		[Download](https://drive.google.com/file/d/10Rts46X1KbGXfopqgRaZrW6DvIUaP8s7/view?usp=sharing) |
 | Durr Burger - Geode       	 |  8-1-25	   	 | ++Fortnite+Release-36.30	    |		[Download](https://drive.google.com/file/d/1iu-EVtguOSBfT-HdPFGTYMnajbRaBoeO/view?usp=sharing) |
 | Citadel Build-Up       	 |  8-5-25	   	 | ++Fortnite+Release-36.30	    |		[Download](https://drive.google.com/file/d/1p7HVRUuKAXkiGRZMv9YDn4CrWopvEhWU/view?usp=sharing) |
+| Citadel Build-Up - No Geode       	 |  8-6-25	   	 | ++Fortnite+Release-36.30	    |		[Download](https://drive.google.com/file/d/1PxiloHTIu2dzYdHHQHgZhiwmbwWX4hOP/view?usp=sharing) |
 | Oathbound Citadel POI       	 |  8-12-25	   	 | ++Fortnite+Release-37.00	    |		[Coming Soon]() |
 
 # Reload 
