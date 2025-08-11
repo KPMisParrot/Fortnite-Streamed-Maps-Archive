@@ -28,6 +28,7 @@ Fortnite Reload as of 36.30+ downloads a base set of paks for the lighting.
 | Reload Oasis (Oasis Only)        	 |  11-2-24	   	 | ++Fortnite+Release-32.00	    |		[Download](https://drive.google.com/file/d/1XwvDEU4ngR8sS4_VufmXE-Z7shtUR1nM/view?usp=sharing) |
 | Reload Oasis (Oasis Only)        	 |  11-21-24	   	 | ++Fortnite+Release-32.11	    |		[Download](https://drive.google.com/file/d/1sVA0A-NhmGL4kj7Ayx0Qt7vquGslf_9D/view?usp=sharing) |
 | Reload Slurp-Rush (Slurp-Rush Only)        	 |  4-15-25	   	 | ++Fortnite+Release-34.30	    |		[Download](https://drive.google.com/file/d/1kdvt7cCed4rRRlAPiHZAES2j6D46Mdxf/view?usp=sharing) |
+| Reload (Oasis and Slurp-Rush)        	 |  6-7-25	   	 | ++Fortnite+Release-36.00	    |		[Download](https://drive.google.com/file/d/1plyqtrwuT-_KcYLfHnRvy2NQpS9rlGY0/view?usp=sharing) |
 | Reload Squid Game (All Maps)        	 |  6-27-25	   	 | ++Fortnite+Release-36.10	    |		[Download](https://drive.google.com/file/d/1iYFsSAhOIDFAeN-NFNCcGbTcKfV_JRff/view?usp=sharing) |
 | Reload (All Maps)        	 |  7-29-25	   	 | ++Fortnite+Release-36.30	    |		[Download](https://drive.google.com/file/d/1AHf0liOhuEGbmGze9GY-B-KSTWHCvaAm/view?usp=sharing) |
 | Reload (All Maps)        	 |  8-7-25	   	 | ++Fortnite+Release-37.00	    |		[Download](https://drive.google.com/file/d/1RXCs13nZ0HoRuK--pPIYWDCWVIiLAvaR/view?usp=sharing) |
