@@ -37,6 +37,8 @@ Fortnite Reload as of 36.30+ downloads a base set of paks for the lighting.
 # Concerts / Events 
 | Update                  	 | Date          	 | Game Version	    |		    Download links        |
 | ------------------------------ | --------------------- | ------------------------ | ------------------------- |
-| Metallica Concert        	 |  6-22-24	   	 | ++Fortnite+Release-30.20	    |		[Download](https://drive.google.com/file/d/1ENQT7goN-q_7--sbXpw5Dl7ZS3PCN89S/view?usp=sharing) |
-| Karol-G Concert        	 |  8-23-24	   	 | ++Fortnite+Release-31.00	    |		[Download](https://drive.google.com/file/d/19JBLKYEqcxyGhf1IBMWHJWmAThP6g88-/view?usp=sharing) |
-| Sabrina Carpenter's Map 	 |  5-27-25	   	 | ++Fortnite+Release-35.20	    |		[Download](https://drive.google.com/file/d/1N_Ew8BD7QynvnVi5XZ0S5v3DmEbTQxs0/view?usp=sharing) |
+| Metallica: Fuel. Fire. Fury.        	 |  6-22-24	   	 | ++Fortnite+Release-30.20	    |		[Download](https://drive.google.com/file/d/1ENQT7goN-q_7--sbXpw5Dl7ZS3PCN89S/view?usp=sharing) |
+| Karol-G: MSB Fortnite        	 |  8-23-24	   	 | ++Fortnite+Release-31.00	    |		[Download](https://drive.google.com/file/d/19JBLKYEqcxyGhf1IBMWHJWmAThP6g88-/view?usp=sharing) |
+| Dance with Sabrina Carpenter 	 |  5-27-25	   	 | ++Fortnite+Release-35.20	    |		[Download](https://drive.google.com/file/d/1N_Ew8BD7QynvnVi5XZ0S5v3DmEbTQxs0/view?usp=sharing) |
+| Metallica: Fuel. Fire. Fury.        	 |  8-7-25	   	 | ++Fortnite+Release-37.00	    |		[Download](https://drive.google.com/file/d/17ftA4Nmbf0kmJdLUUgERJ6V3r4ZEneOd/view?usp=sharing) |
+| Karol-G: MSB Fortnite        	 |  8-7-25	   	 | ++Fortnite+Release-37.00	    |		[Download](https://drive.google.com/file/d/195KR2QEY4jz95kIjTRX6iFzue-qWZ_A6/view?usp=sharing) |
