@@ -20,7 +20,7 @@ Fortnite Reload as of 36.30+ downloads a base set of paks for the lighting.
 | Citadel Build-Up       	 |  8-5-25	   	 | ++Fortnite+Release-36.30	    |		[Download](https://drive.google.com/file/d/1p7HVRUuKAXkiGRZMv9YDn4CrWopvEhWU/view?usp=sharing) |
 | Citadel Build-Up - No Geode       	 |  8-6-25	   	 | ++Fortnite+Release-36.30	    |		[Download](https://drive.google.com/file/d/1PxiloHTIu2dzYdHHQHgZhiwmbwWX4hOP/view?usp=sharing) |
 | Citadel Build-Up - No Geode       	 |  8-7-25	   	 | ++Fortnite+Release-37.00	    |		[Download](https://drive.google.com/file/d/19ChucLaKO6H7Ju-NkLUhF8iYQgQr_kxG/view?usp=sharing) |
-| Oathbound Citadel POI       	 |  8-12-25	   	 | ++Fortnite+Release-37.00	    |		[Coming Soon]() |
+| Oathbound Citadel POI       	 |  8-12-25	   	 | ++Fortnite+Release-37.00	    |		[Download](https://drive.google.com/file/d/1lXktGkTVYtHkRJCcQUf8qz4ptcBb-DQv/view?usp=sharing) |
 
 # Reload 
 | Update                  	 | Date          	 | Game Version	    |		    Download links        | 
