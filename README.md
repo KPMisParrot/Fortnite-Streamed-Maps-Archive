@@ -5,7 +5,9 @@ Each zip has a .pak, .sig, utoc, and .ucas file. The map's files can't be access
 As of now I will not be sharing how to load these in the editor as it can be used as an exploit to access UEFN creators maps.
 
 Reload wasn't streamed from the servers until 32.00 when Reload Oasis was added.
+
 Reload as of 36.30+ downloads a base set of paks for the lighting.
+
 Blitz Royale as of 37.10 downloads a base set of paks for the landscape.
 
 
