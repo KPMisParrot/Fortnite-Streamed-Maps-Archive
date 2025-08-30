@@ -4,8 +4,9 @@ An archive of all Fortnite's Streamed Events / Maps
 Each zip has a .pak, .sig, utoc, and .ucas file. The map's files can't be accessed without having the specific game version with UEFN installed.
 As of now I will not be sharing how to load these in the editor as it can be used as an exploit to access UEFN creators maps.
 
-Fortnite Reload wasn't streamed from the servers until 32.00 when Reload Oasis was added.
-Fortnite Reload as of 36.30+ downloads a base set of paks for the lighting.
+Reload wasn't streamed from the servers until 32.00 when Reload Oasis was added.
+Reload as of 36.30+ downloads a base set of paks for the lighting.
+Blitz Royale as of 37.10 downloads a base set of paks for the landscape.
 
 
 # Blitz Royale 
@@ -21,6 +22,7 @@ Fortnite Reload as of 36.30+ downloads a base set of paks for the lighting.
 | Citadel Build-Up - No Geode       	 |  8-6-25	   	 | ++Fortnite+Release-36.30	    |		[Download](https://drive.google.com/file/d/1PxiloHTIu2dzYdHHQHgZhiwmbwWX4hOP/view?usp=sharing) |
 | Citadel Build-Up - No Geode       	 |  8-7-25	   	 | ++Fortnite+Release-37.00	    |		[Download](https://drive.google.com/file/d/19ChucLaKO6H7Ju-NkLUhF8iYQgQr_kxG/view?usp=sharing) |
 | Oathbound Citadel POI       	 |  8-12-25	   	 | ++Fortnite+Release-37.00	    |		[Download](https://drive.google.com/file/d/1lXktGkTVYtHkRJCcQUf8qz4ptcBb-DQv/view?usp=sharing) |
+| Asteria Awakened       	 |  8-26-25	   	 | ++Fortnite+Release-37.10	    |		[Download](https://drive.google.com/file/d/1pr1CkE-2fq0gbzHQCeyf_Pt6kzY8vf0v/view?usp=sharing) |
 
 # Reload 
 | Update                  	 | Date          	 | Game Version	    |		    Download links        | 
@@ -32,6 +34,7 @@ Fortnite Reload as of 36.30+ downloads a base set of paks for the lighting.
 | Reload Squid Game (All Maps)        	 |  6-27-25	   	 | ++Fortnite+Release-36.10	    |		[Download](https://drive.google.com/file/d/1iYFsSAhOIDFAeN-NFNCcGbTcKfV_JRff/view?usp=sharing) |
 | Reload (All Maps)        	 |  7-29-25	   	 | ++Fortnite+Release-36.30	    |		[Download](https://drive.google.com/file/d/1AHf0liOhuEGbmGze9GY-B-KSTWHCvaAm/view?usp=sharing) |
 | Reload (All Maps)        	 |  8-7-25	   	 | ++Fortnite+Release-37.00	    |		[Download](https://drive.google.com/file/d/1RXCs13nZ0HoRuK--pPIYWDCWVIiLAvaR/view?usp=sharing) |
+| Reload (All Maps)        	 |  8-26-25	   	 | ++Fortnite+Release-37.10	    |		[Download](https://drive.google.com/file/d/1yeKYrqSOPlsGcphk90O9x8HjiLvC87Dh/view?usp=sharing) |
 
 
 # Concerts / Events 
@@ -40,5 +43,7 @@ Fortnite Reload as of 36.30+ downloads a base set of paks for the lighting.
 | Metallica: Fuel. Fire. Fury.        	 |  6-22-24	   	 | ++Fortnite+Release-30.20	    |		[Download](https://drive.google.com/file/d/1ENQT7goN-q_7--sbXpw5Dl7ZS3PCN89S/view?usp=sharing) |
 | Karol-G: MSB Fortnite        	 |  8-23-24	   	 | ++Fortnite+Release-31.00	    |		[Download](https://drive.google.com/file/d/19JBLKYEqcxyGhf1IBMWHJWmAThP6g88-/view?usp=sharing) |
 | Dance with Sabrina Carpenter 	 |  5-27-25	   	 | ++Fortnite+Release-35.20	    |		[Download](https://drive.google.com/file/d/1N_Ew8BD7QynvnVi5XZ0S5v3DmEbTQxs0/view?usp=sharing) |
+| Dance with Sabrina Carpenter 	 |  6-7-25	   	 | ++Fortnite+Release-36.00	    |		[Download](https://drive.google.com/file/d/1DLDOnM2hc3slkygJF60erRMLi4dJuDe-/view?usp=sharing) |
+| Dance with Sabrina Carpenter 	 |  7-29-25	   	 | ++Fortnite+Release-36.30	    |		[Download](https://drive.google.com/file/d/1ob0zTVHiefNun-3OcyoXfaLIhHAJGyy9/view?usp=sharing) |
 | Metallica: Fuel. Fire. Fury.        	 |  8-7-25	   	 | ++Fortnite+Release-37.00	    |		[Download](https://drive.google.com/file/d/17ftA4Nmbf0kmJdLUUgERJ6V3r4ZEneOd/view?usp=sharing) |
 | Karol-G: MSB Fortnite        	 |  8-7-25	   	 | ++Fortnite+Release-37.00	    |		[Download](https://drive.google.com/file/d/195KR2QEY4jz95kIjTRX6iFzue-qWZ_A6/view?usp=sharing) |
