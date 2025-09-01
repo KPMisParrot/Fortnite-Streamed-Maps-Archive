@@ -30,6 +30,7 @@ Blitz Royale as of 37.10 downloads a base set of paks for the landscape.
 | Update                  	 | Date          	 | Game Version	    |		    Download links        | 
 | ------------------------------ | --------------------- | ------------------------ | ------------------------- |
 | Reload Oasis (Oasis Only)        	 |  11-2-24	   	 | ++Fortnite+Release-32.00	    |		[Download](https://drive.google.com/file/d/1XwvDEU4ngR8sS4_VufmXE-Z7shtUR1nM/view?usp=sharing) |
+| Reload Oasis (Oasis Only)        	 |  11-13-24	   	 | ++Fortnite+Release-32.10	    |		[Download](https://drive.google.com/file/d/1iSVQURd2aC_dby6BmaW1IuBerpoKJYOy/view?usp=sharing) |
 | Reload Oasis (Oasis Only)        	 |  11-21-24	   	 | ++Fortnite+Release-32.11	    |		[Download](https://drive.google.com/file/d/1sVA0A-NhmGL4kj7Ayx0Qt7vquGslf_9D/view?usp=sharing) |
 | Reload Slurp-Rush (Slurp-Rush Only)        	 |  4-15-25	   	 | ++Fortnite+Release-34.30	    |		[Download](https://drive.google.com/file/d/1kdvt7cCed4rRRlAPiHZAES2j6D46Mdxf/view?usp=sharing) |
 | Reload (Oasis and Slurp-Rush)        	 |  6-7-25	   	 | ++Fortnite+Release-36.00	    |		[Download](https://drive.google.com/file/d/1plyqtrwuT-_KcYLfHnRvy2NQpS9rlGY0/view?usp=sharing) |
@@ -49,3 +50,7 @@ Blitz Royale as of 37.10 downloads a base set of paks for the landscape.
 | Dance with Sabrina Carpenter 	 |  7-29-25	   	 | ++Fortnite+Release-36.30	    |		[Download](https://drive.google.com/file/d/1ob0zTVHiefNun-3OcyoXfaLIhHAJGyy9/view?usp=sharing) |
 | Metallica: Fuel. Fire. Fury.        	 |  8-7-25	   	 | ++Fortnite+Release-37.00	    |		[Download](https://drive.google.com/file/d/17ftA4Nmbf0kmJdLUUgERJ6V3r4ZEneOd/view?usp=sharing) |
 | Karol-G: MSB Fortnite        	 |  8-7-25	   	 | ++Fortnite+Release-37.00	    |		[Download](https://drive.google.com/file/d/195KR2QEY4jz95kIjTRX6iFzue-qWZ_A6/view?usp=sharing) |
+| Nike Airphoria      |  8-7-25	   	 | ++Fortnite+Release-37.00	    |		[Download](https://drive.google.com/file/d/1TEbAyBHk2_KV4FQIdRkfK3oSwW_7Wg6f/view?usp=sharing) |
+| Metallica: Fuel. Fire. Fury.        	 |  8-26-25	   	 | ++Fortnite+Release-37.10	    |		[Download](https://drive.google.com/file/d/1S-U3a5QlA6d4gWhJ1Xoshszciw5w-_4x/view?usp=sharing) |
+| Karol-G: MSB Fortnite        	 |  8-26-25	   	 | ++Fortnite+Release-37.10	    |		[Download](https://drive.google.com/file/d/1khUNzMy5seRYTB51UsacTXM_8QTHz2kz/view?usp=sharing) |
+| Nike Airphoria      |  8-26-25	   	 | ++Fortnite+Release-37.10	    |		[Download](https://drive.google.com/file/d/17WNLW-G3IL9WPZWpOC-Vsqeo94yQZgXS/view?usp=sharing) |
