@@ -2,16 +2,47 @@
 An archive of all Fortnite's Streamed Events / Maps
 
 Each zip has a .pak, .sig, utoc, and .ucas file. The map's files can't be accessed without having the specific game version with UEFN installed.
+
 As of now I will not be sharing how to load these in the editor as it can be used as an exploit to access UEFN creators maps.
 
-Reload wasn't streamed from the servers until 32.00 when Reload Oasis was added.
-
-Reload as of 36.30+ downloads a base set of paks for the lighting.
-
-Blitz Royale as of 37.10 downloads a base set of paks for the landscape.
+If you have anything that isn't listed on here you can message me on Discord "kapum1"
 
 
-# Blitz Royale 
+# Reload Map Versions: 
+| Update                  	 | Date          	 | Game Version	    |		    Download links        | 
+| ------------------------------ | --------------------- | ------------------------ | ------------------------- |
+| Reload Oasis (Oasis Only)        	 |  11-2-24	   	 | ++Fortnite+Release-32.00	    |		[Download](https://drive.google.com/file/d/1XwvDEU4ngR8sS4_VufmXE-Z7shtUR1nM/view?usp=sharing) |
+| Reload Oasis (Oasis Only)        	 |  11-13-24	   	 | ++Fortnite+Release-32.10	    |		[Download](https://drive.google.com/file/d/1iSVQURd2aC_dby6BmaW1IuBerpoKJYOy/view?usp=sharing) |
+| Reload Oasis (Oasis Only)        	 |  11-21-24	   	 | ++Fortnite+Release-32.11	    |		[Download](https://drive.google.com/file/d/1sVA0A-NhmGL4kj7Ayx0Qt7vquGslf_9D/view?usp=sharing) |
+| Reload Slurp-Rush (Slurp-Rush Only)        	 |  4-15-25	   	 | ++Fortnite+Release-34.30	    |		[Download](https://drive.google.com/file/d/1kdvt7cCed4rRRlAPiHZAES2j6D46Mdxf/view?usp=sharing) |
+| Reload (Oasis and Slurp-Rush)        	 |  6-7-25	   	 | ++Fortnite+Release-36.00	    |		[Download](https://drive.google.com/file/d/1plyqtrwuT-_KcYLfHnRvy2NQpS9rlGY0/view?usp=sharing) |
+| Reload Squid Game (All Maps)        	 |  6-27-25	   	 | ++Fortnite+Release-36.10	    |		[Download](https://drive.google.com/file/d/1iYFsSAhOIDFAeN-NFNCcGbTcKfV_JRff/view?usp=sharing) |
+| Reload (All Maps)        	 |  7-15-25	   	 | ++Fortnite+Release-36.20	    |		[Download](https://drive.google.com/file/d/1eOfgpAiGcMoJtGSHuEOGJs4mMTvT4sK1/view?usp=sharing) |
+| Reload (All Maps)        	 |  7-29-25	   	 | ++Fortnite+Release-36.30	    |		[Download](https://drive.google.com/file/d/1AHf0liOhuEGbmGze9GY-B-KSTWHCvaAm/view?usp=sharing) |
+| Reload (All Maps)        	 |  8-7-25	   	 | ++Fortnite+Release-37.00	    |		[Download](https://drive.google.com/file/d/1RXCs13nZ0HoRuK--pPIYWDCWVIiLAvaR/view?usp=sharing) |
+| Reload (All Maps)        	 |  8-26-25	   	 | ++Fortnite+Release-37.10	    |		[Download](https://drive.google.com/file/d/1yeKYrqSOPlsGcphk90O9x8HjiLvC87Dh/view?usp=sharing) |
+
+# Reload - Notes:
+Epic Started Streaming Reload Maps from the Servers in v32.00 with the Release of Reload Oasis.
+
+With the v36.30 Release, Reload Now Downloads a Base Set of Files for the Lighting.
+
+Reload Released in v30.20 (Not Streamed at the Time)
+
+- Oasis Update v32.00
+
+- Slurp-Rush Update v34.30
+
+- Squid Games Update v36.10
+
+Another Map is in Development Codenamed "CloudBerry"
+- Themed Around C2S2 (Grotto, Agency, Yacht, Rig, and Shark)
+- Spy Bases / Houses
+- Hydro 16 + Dam Landmark
+
+
+
+# Blitz Royale Map Versions:
 | Update                  	 | Date          	 | Game Version	    |		    Download links        |
 | ------------------------------ | --------------------- | ------------------------ | ------------------------- |
 | Release Day        	 |  6-18-25	   	 | ++Fortnite+Release-36.10	    |		[Download](https://drive.google.com/file/d/12txOWhGm6UU3ce8gNNvY7nJK_nu5JQFa/view?usp=sharing) |
@@ -26,21 +57,14 @@ Blitz Royale as of 37.10 downloads a base set of paks for the landscape.
 | Oathbound Citadel POI       	 |  8-12-25	   	 | ++Fortnite+Release-37.00	    |		[Download](https://drive.google.com/file/d/1lXktGkTVYtHkRJCcQUf8qz4ptcBb-DQv/view?usp=sharing) |
 | Asteria Awakened       	 |  8-26-25	   	 | ++Fortnite+Release-37.10	    |		[Download](https://drive.google.com/file/d/1pr1CkE-2fq0gbzHQCeyf_Pt6kzY8vf0v/view?usp=sharing) |
 
-# Reload 
-| Update                  	 | Date          	 | Game Version	    |		    Download links        | 
-| ------------------------------ | --------------------- | ------------------------ | ------------------------- |
-| Reload Oasis (Oasis Only)        	 |  11-2-24	   	 | ++Fortnite+Release-32.00	    |		[Download](https://drive.google.com/file/d/1XwvDEU4ngR8sS4_VufmXE-Z7shtUR1nM/view?usp=sharing) |
-| Reload Oasis (Oasis Only)        	 |  11-13-24	   	 | ++Fortnite+Release-32.10	    |		[Download](https://drive.google.com/file/d/1iSVQURd2aC_dby6BmaW1IuBerpoKJYOy/view?usp=sharing) |
-| Reload Oasis (Oasis Only)        	 |  11-21-24	   	 | ++Fortnite+Release-32.11	    |		[Download](https://drive.google.com/file/d/1sVA0A-NhmGL4kj7Ayx0Qt7vquGslf_9D/view?usp=sharing) |
-| Reload Slurp-Rush (Slurp-Rush Only)        	 |  4-15-25	   	 | ++Fortnite+Release-34.30	    |		[Download](https://drive.google.com/file/d/1kdvt7cCed4rRRlAPiHZAES2j6D46Mdxf/view?usp=sharing) |
-| Reload (Oasis and Slurp-Rush)        	 |  6-7-25	   	 | ++Fortnite+Release-36.00	    |		[Download](https://drive.google.com/file/d/1plyqtrwuT-_KcYLfHnRvy2NQpS9rlGY0/view?usp=sharing) |
-| Reload Squid Game (All Maps)        	 |  6-27-25	   	 | ++Fortnite+Release-36.10	    |		[Download](https://drive.google.com/file/d/1iYFsSAhOIDFAeN-NFNCcGbTcKfV_JRff/view?usp=sharing) |
-| Reload (All Maps)        	 |  7-29-25	   	 | ++Fortnite+Release-36.30	    |		[Download](https://drive.google.com/file/d/1AHf0liOhuEGbmGze9GY-B-KSTWHCvaAm/view?usp=sharing) |
-| Reload (All Maps)        	 |  8-7-25	   	 | ++Fortnite+Release-37.00	    |		[Download](https://drive.google.com/file/d/1RXCs13nZ0HoRuK--pPIYWDCWVIiLAvaR/view?usp=sharing) |
-| Reload (All Maps)        	 |  8-26-25	   	 | ++Fortnite+Release-37.10	    |		[Download](https://drive.google.com/file/d/1yeKYrqSOPlsGcphk90O9x8HjiLvC87Dh/view?usp=sharing) |
+# Blitz Royale - Notes:
+Blitz Royale Released with the v36.10 Update.
+
+With the v37.10 Release, Blitz Royale now Downloads a Base Set of Files for the Landscape used in the Asteria Awakened Map Update.
 
 
-# Concerts / Events 
+
+# Concerts / Special Event Maps: 
 | Update                  	 | Date          	 | Game Version	    |		    Download links        |
 | ------------------------------ | --------------------- | ------------------------ | ------------------------- |
 | Metallica: Fuel. Fire. Fury.        	 |  6-22-24	   	 | ++Fortnite+Release-30.20	    |		[Download](https://drive.google.com/file/d/1ENQT7goN-q_7--sbXpw5Dl7ZS3PCN89S/view?usp=sharing) |
