@@ -63,6 +63,21 @@ Blitz Royale Released with the v36.10 Update.
 With the v37.10 Release, Blitz Royale now Downloads a Base Set of Files for the Landscape used in the Asteria Awakened Map Update.
 
 
+# Ballistic Maps: 
+| Update                  	 | Date          	 | Game Version	    |		    Download links        |
+| ------------------------------ | --------------------- | ------------------------ | ------------------------- |
+| Skyline 10        	 |  5-2-25	   	 | ++Fortnite+Release-35.00	    |		[Download](https://drive.google.com/file/d/1nwtJ5YI8RpkFkf2WxG-h9L0fAAmUUMyY/view?usp=sharing) |
+| Skyline 10        	 |  5-16-25	   	 | ++Fortnite+Release-35.10	    |		[Download](https://drive.google.com/file/d/18gXqQp3fnCh1gisHRyRjg86GscQD6QOP/view?usp=sharing) |
+| Skyline 10        	 |  7-15-25	   	 | ++Fortnite+Release-36.20	    |		[Download](https://drive.google.com/file/d/1eDWnDFCp8KyKHjYAaRHcE1f6CYpu8SWQ/view?usp=sharing) |
+| All Ballistic Maps        	 |  8-26-25	   	 | ++Fortnite+Release-37.10	    |		[Download](https://drive.google.com/file/d/1dZtWrVANiXWUlZ8BHQ54FSUaJzlHrvkD/view?usp=sharing) |
+
+# Ballistic - Notes:
+Skyline 10 added in v33.10
+Hammer Fall Shell Map added in v34.30
+Storm Chaser Cove added in v34.30
+Cinderwatch added in v35.10
+K-Zone Commons added in v36.10
+Hammer Fall finished in v37.10
 
 # Concerts / Special Event Maps: 
 | Update                  	 | Date          	 | Game Version	    |		    Download links        |
