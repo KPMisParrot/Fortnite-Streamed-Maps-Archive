@@ -67,6 +67,10 @@ With the v37.10 Release, Blitz Royale now Downloads a Base Set of Files for the 
 # Ballistic Maps: 
 | Update                  	 | Date          	 | Game Version	    |		    Download links        |
 | ------------------------------ | --------------------- | ------------------------ | ------------------------- |
+| Skyline 10        	 |  12-10-24	   	 | ++Fortnite+Release-33.10	    |		[Download](https://drive.google.com/file/d/1f-coMw-c3cYT9kf9zyvsQbcKlig0LXO-/view?usp=sharing) |
+| Skyline 10        	 |  12-17-24	   	 | ++Fortnite+Release-33.11	    |		[Download](https://drive.google.com/file/d/1qDHcRLRbn2bj7ke0MrbJ2tduPktTX7Eg/view?usp=sharing) |
+| Skyline 10        	 |  1-14-25	   	 | ++Fortnite+Release-33.20	    |		[Download](https://drive.google.com/file/d/1oQjhJspbNnuCxiKbVQAzeMV6x-TeWCnE/view?usp=sharing) |
+| Skyline 10        	 |  1-31-25	   	 | ++Fortnite+Release-33.30	    |		[Download](https://drive.google.com/file/d/1p_JPta66hrZQSRJus-p_TljWmI9HTY4I/view?usp=sharing) |
 | Skyline 10        	 |  5-2-25	   	 | ++Fortnite+Release-35.00	    |		[Download](https://drive.google.com/file/d/1nwtJ5YI8RpkFkf2WxG-h9L0fAAmUUMyY/view?usp=sharing) |
 | Skyline 10        	 |  5-16-25	   	 | ++Fortnite+Release-35.10	    |		[Download](https://drive.google.com/file/d/18gXqQp3fnCh1gisHRyRjg86GscQD6QOP/view?usp=sharing) |
 | Skyline 10        	 |  7-15-25	   	 | ++Fortnite+Release-36.20	    |		[Download](https://drive.google.com/file/d/1eDWnDFCp8KyKHjYAaRHcE1f6CYpu8SWQ/view?usp=sharing) |
