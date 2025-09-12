@@ -59,6 +59,7 @@ Another Map is in Development Codenamed "CloudBerry"
 | Asteria Awakened       	 |  8-26-25	   	 | ++Fortnite+Release-37.10	    |		[Download](https://drive.google.com/file/d/1pr1CkE-2fq0gbzHQCeyf_Pt6kzY8vf0v/view?usp=sharing) |
 | Asteria Awakened       	 |  9-10-25	   	 | ++Fortnite+Release-37.20	    |		[Download](https://drive.google.com/file/d/1Oc1KAxY2NVD1_NCaZxodKWFZnF8zfsCV/view?usp=sharing) |
 | Slap Factory POI       	 |  9-10-25	   	 | ++Fortnite+Release-37.20	    |		[Download](https://drive.google.com/file/d/1f1PCDTSP8GxUTgkZY7vuve85kJ4cDkIZ/view?usp=sharing) |
+| Stark Island       	 |  9-12-25	   	 | ++Fortnite+Release-37.20	    |		[Download](https://drive.google.com/file/d/1JJOELqyLkfhEZiS2Z60kIIFnA_7ArtEN/view?usp=sharing) |
 
 # Blitz Royale - Notes:
 Blitz Royale Released with the v36.10 Update.
