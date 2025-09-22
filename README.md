@@ -22,6 +22,7 @@ If you have anything that isn't listed on here you can message me on Discord "ka
 | Reload (All Maps)        	 |  8-7-25	   	 | ++Fortnite+Release-37.00	    |		[Download](https://drive.google.com/file/d/1RXCs13nZ0HoRuK--pPIYWDCWVIiLAvaR/view?usp=sharing) |
 | Reload (All Maps)        	 |  8-26-25	   	 | ++Fortnite+Release-37.10	    |		[Download](https://drive.google.com/file/d/1yeKYrqSOPlsGcphk90O9x8HjiLvC87Dh/view?usp=sharing) |
 | Reload (All Maps)        	 |  9-10-25	   	 | ++Fortnite+Release-37.20	    |		[Download](https://drive.google.com/file/d/1fqquPjFj4ZAnS3KTz57uQlnpShteT0Se/view?usp=sharing) |
+| Reload (All Maps)        	 |  9-18-25	   	 | ++Fortnite+Release-37.30	    |		[Download](https://drive.google.com/file/d/1GIhxv7o0IraakGYmmYDC0cXteZZT3osv/view?usp=sharing) |
 
 # Reload - Notes:
 Epic Started Streaming Reload Maps from the Servers in v32.00 with the Release of Reload Oasis.
@@ -60,12 +61,18 @@ Another Map is in Development Codenamed "CloudBerry"
 | Asteria Awakened       	 |  9-10-25	   	 | ++Fortnite+Release-37.20	    |		[Download](https://drive.google.com/file/d/1Oc1KAxY2NVD1_NCaZxodKWFZnF8zfsCV/view?usp=sharing) |
 | Slap Factory POI       	 |  9-10-25	   	 | ++Fortnite+Release-37.20	    |		[Download](https://drive.google.com/file/d/1f1PCDTSP8GxUTgkZY7vuve85kJ4cDkIZ/view?usp=sharing) |
 | Stark Island       	 |  9-12-25	   	 | ++Fortnite+Release-37.20	    |		[Download](https://drive.google.com/file/d/1JJOELqyLkfhEZiS2Z60kIIFnA_7ArtEN/view?usp=sharing) |
+| Asteria Awakened       	 |  9-18-25	   	 | ++Fortnite+Release-37.30	    |		[Download](https://drive.google.com/file/d/1DXhq3DfOL8l9Lq89Bs1M_XywZZARQ228/view?usp=drive_link) |
+| Slap Factory POI       	 |  9-18-25	   	 | ++Fortnite+Release-37.30	    |		[Download](https://drive.google.com/file/d/140PopR7dz8l02peFDQssGbGh37cIJnjb/view?usp=drive_link) |
+| Stark Island       	 |  9-18-25	   	 | ++Fortnite+Release-37.30	    |		[Download](https://drive.google.com/file/d/1T9-6mmSwnp5HRHfgW4Tk-I87bx-U9dXy/view?usp=sharing) |
 
 # Blitz Royale - Notes:
 Blitz Royale Released with the v36.10 Update.
 
 With the v37.10 Release, Blitz Royale now Downloads a Base Set of Files for the Landscape used in the Asteria Awakened Map Update.
 
+Asteria Awakened Added in 37.10 (8-26-25)
+
+Stark Island Added in 37.20 (9-12-25)
 
 
 # Ballistic Maps: 
@@ -80,6 +87,7 @@ With the v37.10 Release, Blitz Royale now Downloads a Base Set of Files for the 
 | Skyline 10        	 |  7-15-25	   	 | ++Fortnite+Release-36.20	    |		[Download](https://drive.google.com/file/d/1eDWnDFCp8KyKHjYAaRHcE1f6CYpu8SWQ/view?usp=sharing) |
 | All Ballistic Maps        	 |  8-26-25	   	 | ++Fortnite+Release-37.10	    |		[Download](https://drive.google.com/file/d/1dZtWrVANiXWUlZ8BHQ54FSUaJzlHrvkD/view?usp=sharing) |
 | All Ballistic Maps        	 |  9-10-25	   	 | ++Fortnite+Release-37.20	    |		[Download](https://drive.google.com/file/d/1dv3_YT4lIZMgp7MOyvSvtgqfE_sTiJ90/view?usp=sharing) |
+| All Ballistic Maps        	 |  9-18-25	   	 | ++Fortnite+Release-37.30	    |		[Not Uploaded Yet]() |
 
 # Ballistic - Notes:
 Skyline 10 added in v33.10
@@ -99,11 +107,13 @@ Hammer Fall finished in v37.10
 # Rocket Racing Maps: 
 | Update                  	 | Date          	 | Game Version	    |		    Download links        |
 | ------------------------------ | --------------------- | ------------------------ | ------------------------- |
-| Rocket Racing Maps  (All)        	 |  8-26-25	   	 | ++Fortnite+Release-37.10	    |		[Download](https://gofile.io/d/zfBzQk) |
-| Rocket Racing Maps  (All)        	 |  9-10-25	   	 | ++Fortnite+Release-37.20	    |		[Download](https://gofile.io/d/MJh6P8) |
+| Rocket Racing Maps  (All)        	 |  8-26-25	   	 | ++Fortnite+Release-37.10	    |		[Read Message Below]() |
+| Rocket Racing Maps  (All)        	 |  9-10-25	   	 | ++Fortnite+Release-37.20	    |		[Read Message Below]() |
+| Rocket Racing Maps  (All)        	 |  9-18-25	   	 | ++Fortnite+Release-37.30	    |		[Read Message Below]() |
+
 
 # Rocket Racing Map - Notes:
-Each pack of maps is 5-6gb.
+Each pack of maps is 5-6gb. (Very Annoying to host)
 
 If a link goes down and you for some strange reason want Rocket Racing you can DM me on Discord. (My Username is at the top)
 
@@ -123,10 +133,12 @@ If a link goes down and you for some strange reason want Rocket Racing you can D
 | Metallica: Fuel. Fire. Fury.        	 |  8-26-25	   	 | ++Fortnite+Release-37.10	    |		[Download](https://drive.google.com/file/d/1S-U3a5QlA6d4gWhJ1Xoshszciw5w-_4x/view?usp=sharing) |
 | Karol-G: MSB Fortnite        	 |  8-26-25	   	 | ++Fortnite+Release-37.10	    |		[Download](https://drive.google.com/file/d/1khUNzMy5seRYTB51UsacTXM_8QTHz2kz/view?usp=sharing) |
 | Nike Airphoria      |  8-26-25	   	 | ++Fortnite+Release-37.10	    |		[Download](https://drive.google.com/file/d/17WNLW-G3IL9WPZWpOC-Vsqeo94yQZgXS/view?usp=sharing) |
-| Metallica: Fuel. Fire. Fury.        	 |  8-26-25	   	 | ++Fortnite+Release-37.20	    |		[Download](https://drive.google.com/file/d/1aVBRS9qkE5HfC9cFUTH5FUHH_s_xOBed/view?usp=sharing) |
+| Metallica: Fuel. Fire. Fury.        	 |  9-10-25	   	 | ++Fortnite+Release-37.20	    |		[Download](https://drive.google.com/file/d/1aVBRS9qkE5HfC9cFUTH5FUHH_s_xOBed/view?usp=sharing) |
 | Nike Airphoria      |  9-10-25	   	 | ++Fortnite+Release-37.20	    |		[Download](https://drive.google.com/file/d/1ku1kuWEihTnL0j-6ydur3Nkc8uljgTg8/view?usp=sharing) |
+| Karol-G: MSB Fortnite        	 |  9-10-25	   	 | ++Fortnite+Release-37.20	    |		[Download](https://drive.google.com/file/d/1q5xc12xTq_0ZofpAiIHAw6WRn3XeCaKX/view?usp=sharing) |
+| Metallica: Fuel. Fire. Fury.        	 |  9-18-25	   	 | ++Fortnite+Release-37.30	    |		[Download](https://drive.google.com/file/d/1BH9kjZXyyTgvpJScGOAEE02koN4oK_be/view?usp=sharing) |
+| Karol-G: MSB Fortnite        	 |  9-18-25	   	 | ++Fortnite+Release-37.30	    |		[Download](https://drive.google.com/file/d/1ifKiukgVATwCuowOQJu7RBsbDI7hMMKi/view?usp=drive_link) |
+| Nike Airphoria      |  9-18-25	   	 | ++Fortnite+Release-37.30	    |		[Download](https://drive.google.com/file/d/19rOXeMvPDUhkC6nvCRijSJ3znaAGakmn/view?usp=drive_link) |
 
 # Concerts / Special Event Map - Notes:
 Dance with Sabrina Carpenter can't be downloaded on 37.00+
-
-Karol-G: MSB Fortnite can't be downloaded on 37.20+
