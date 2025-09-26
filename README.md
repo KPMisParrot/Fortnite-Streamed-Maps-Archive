@@ -23,6 +23,7 @@ If you have anything that isn't listed on here you can message me on Discord "ka
 | Reload (All Maps)        	 |  8-26-25	   	 | ++Fortnite+Release-37.10	    |		[Download](https://drive.google.com/file/d/1yeKYrqSOPlsGcphk90O9x8HjiLvC87Dh/view?usp=sharing) |
 | Reload (All Maps)        	 |  9-10-25	   	 | ++Fortnite+Release-37.20	    |		[Download](https://drive.google.com/file/d/1fqquPjFj4ZAnS3KTz57uQlnpShteT0Se/view?usp=sharing) |
 | Reload (All Maps)        	 |  9-18-25	   	 | ++Fortnite+Release-37.30	    |		[Download](https://drive.google.com/file/d/1GIhxv7o0IraakGYmmYDC0cXteZZT3osv/view?usp=sharing) |
+| Reload (All Maps)        	 |  9-25-25	   	 | ++Fortnite+Release-37.31	    |		[Download](https://drive.google.com/file/d/17qSt9f9Le37-vsL9Op3dyoYL4wkMKe3F/view?usp=sharing) |
 
 # Reload - Notes:
 Epic Started Streaming Reload Maps from the Servers in v32.00 with the Release of Reload Oasis.
@@ -64,6 +65,8 @@ Another Map is in Development Codenamed "CloudBerry"
 | Asteria Awakened       	 |  9-18-25	   	 | ++Fortnite+Release-37.30	    |		[Download](https://drive.google.com/file/d/1DXhq3DfOL8l9Lq89Bs1M_XywZZARQ228/view?usp=drive_link) |
 | Slap Factory POI       	 |  9-18-25	   	 | ++Fortnite+Release-37.30	    |		[Download](https://drive.google.com/file/d/140PopR7dz8l02peFDQssGbGh37cIJnjb/view?usp=drive_link) |
 | Stark Island       	 |  9-18-25	   	 | ++Fortnite+Release-37.30	    |		[Download](https://drive.google.com/file/d/1T9-6mmSwnp5HRHfgW4Tk-I87bx-U9dXy/view?usp=sharing) |
+| Slap Factory POI       	 |  9-25-25	   	 | ++Fortnite+Release-37.31	    |		[Download](https://drive.google.com/file/d/13dMMCD3PurQ1_BmeW7NgELY5Tm5rzcCs/view?usp=sharing) |
+| Stark Island       	 |  9-25-25	   	 | ++Fortnite+Release-37.31	    |		[Download](https://drive.google.com/file/d/1Fkwb9Yre1R3CEuPiJAW4jBnFkYqd9Yu2/view?usp=sharing) |
 
 # Blitz Royale - Notes:
 Blitz Royale Released with the v36.10 Update.
@@ -88,6 +91,7 @@ Stark Island Added in 37.20 (9-12-25)
 | All Ballistic Maps        	 |  8-26-25	   	 | ++Fortnite+Release-37.10	    |		[Download](https://drive.google.com/file/d/1dZtWrVANiXWUlZ8BHQ54FSUaJzlHrvkD/view?usp=sharing) |
 | All Ballistic Maps        	 |  9-10-25	   	 | ++Fortnite+Release-37.20	    |		[Download](https://drive.google.com/file/d/1dv3_YT4lIZMgp7MOyvSvtgqfE_sTiJ90/view?usp=sharing) |
 | All Ballistic Maps        	 |  9-18-25	   	 | ++Fortnite+Release-37.30	    |		[Not Uploaded Yet]() |
+| All Ballistic Maps        	 |  9-25-25	   	 | ++Fortnite+Release-37.31	    |		[Not Uploaded Yet]() |
 
 # Ballistic - Notes:
 Skyline 10 added in v33.10
@@ -110,7 +114,7 @@ Hammer Fall finished in v37.10
 | Rocket Racing Maps  (All)        	 |  8-26-25	   	 | ++Fortnite+Release-37.10	    |		[Read Message Below]() |
 | Rocket Racing Maps  (All)        	 |  9-10-25	   	 | ++Fortnite+Release-37.20	    |		[Read Message Below]() |
 | Rocket Racing Maps  (All)        	 |  9-18-25	   	 | ++Fortnite+Release-37.30	    |		[Read Message Below]() |
-
+| Rocket Racing Maps  (All)        	 |  9-25-25	   	 | ++Fortnite+Release-37.31	    |		[Read Message Below]() |
 
 # Rocket Racing Map - Notes:
 Each pack of maps is 5-6gb. (Very Annoying to host)
@@ -139,6 +143,9 @@ If a link goes down and you for some strange reason want Rocket Racing you can D
 | Metallica: Fuel. Fire. Fury.        	 |  9-18-25	   	 | ++Fortnite+Release-37.30	    |		[Download](https://drive.google.com/file/d/1BH9kjZXyyTgvpJScGOAEE02koN4oK_be/view?usp=sharing) |
 | Karol-G: MSB Fortnite        	 |  9-18-25	   	 | ++Fortnite+Release-37.30	    |		[Download](https://drive.google.com/file/d/1ifKiukgVATwCuowOQJu7RBsbDI7hMMKi/view?usp=drive_link) |
 | Nike Airphoria      |  9-18-25	   	 | ++Fortnite+Release-37.30	    |		[Download](https://drive.google.com/file/d/19rOXeMvPDUhkC6nvCRijSJ3znaAGakmn/view?usp=drive_link) |
+| Metallica: Fuel. Fire. Fury.        	 |  9-25-25	   	 | ++Fortnite+Release-37.31	    |		[Download](https://drive.google.com/file/d/1O7nnsiZTOav7c1Dy2ATOkC1Xl2ExiRiZ/view?usp=sharing) |
+| Karol-G: MSB Fortnite        	 |  9-25-25	   	 | ++Fortnite+Release-37.31	    |		[Download](https://drive.google.com/file/d/1m9QcRe03QglE7xfsVHpu4O5ks9NFDu0m/view?usp=sharing) |
+| Nike Airphoria      |  9-25-25	   	 | ++Fortnite+Release-37.31	    |		[Download](https://drive.google.com/file/d/1EqPnfVhTRPZtDmCvVI-VSdo377MMQOjK/view?usp=sharing) |
 
 # Concerts / Special Event Map - Notes:
 Dance with Sabrina Carpenter can't be downloaded on 37.00+
