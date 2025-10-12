@@ -7,6 +7,7 @@ As of now I will not be sharing how to load these in the editor as it can be use
 
 If you have anything that isn't listed on here you can message me on Discord "kapum1"
 
+I ran out of Google Drive Storage, 37.50+ will be added soon (I'm still saving them)
 
 # Reload Map Versions: 
 | Update                  	 | Date          	 | Game Version	    |		    Download links        | 
@@ -24,6 +25,8 @@ If you have anything that isn't listed on here you can message me on Discord "ka
 | Reload (All Maps)        	 |  9-10-25	   	 | ++Fortnite+Release-37.20	    |		[Download](https://drive.google.com/file/d/1fqquPjFj4ZAnS3KTz57uQlnpShteT0Se/view?usp=sharing) |
 | Reload (All Maps)        	 |  9-18-25	   	 | ++Fortnite+Release-37.30	    |		[Download](https://drive.google.com/file/d/1GIhxv7o0IraakGYmmYDC0cXteZZT3osv/view?usp=sharing) |
 | Reload (All Maps)        	 |  9-25-25	   	 | ++Fortnite+Release-37.31	    |		[Download](https://drive.google.com/file/d/17qSt9f9Le37-vsL9Op3dyoYL4wkMKe3F/view?usp=sharing) |
+| Reload (All Maps)        	 |  10-2-25	   	 | ++Fortnite+Release-37.40	    |		[Download](https://drive.google.com/file/d/1nKlTXyuy9Cv0DlbqqP75HXWClqcnDku8/view?usp=drive_link) |
+| Reload (All Maps)        	 |  10-9-25	   	 | ++Fortnite+Release-37.50	    |		[Saved, But Not Uploaded]() |
 
 # Reload - Notes:
 Epic Started Streaming Reload Maps from the Servers in v32.00 with the Release of Reload Oasis.
@@ -37,6 +40,8 @@ Reload Released in v30.20 (Not Streamed at the Time)
 - Slurp-Rush Update v34.30
 
 - Squid Games Update v36.10
+
+- Nightmare Island Update v37.50
 
 Another Map is in Development Codenamed "CloudBerry"
 - Themed Around C2S2 (Grotto, Agency, Yacht, Rig, and Shark)
@@ -67,6 +72,10 @@ Another Map is in Development Codenamed "CloudBerry"
 | Stark Island       	 |  9-18-25	   	 | ++Fortnite+Release-37.30	    |		[Download](https://drive.google.com/file/d/1T9-6mmSwnp5HRHfgW4Tk-I87bx-U9dXy/view?usp=sharing) |
 | Slap Factory POI       	 |  9-25-25	   	 | ++Fortnite+Release-37.31	    |		[Download](https://drive.google.com/file/d/13dMMCD3PurQ1_BmeW7NgELY5Tm5rzcCs/view?usp=sharing) |
 | Stark Island       	 |  9-25-25	   	 | ++Fortnite+Release-37.31	    |		[Download](https://drive.google.com/file/d/1Fkwb9Yre1R3CEuPiJAW4jBnFkYqd9Yu2/view?usp=sharing) |
+| Slap Factory POI       	 |  10-2-25	   	 | ++Fortnite+Release-37.40	    |		[Download](https://drive.google.com/file/d/1pWCKBWe17kNGcAmT_jGxoHGfL1LRX3Vp/view?usp=drive_link) |
+| Stark Island       	 |  10-2-25	   	 | ++Fortnite+Release-37.40	    |		[Download](https://drive.google.com/file/d/1ff_UThps688xoZ5D_qTPXQYYHuuD1a1h/view?usp=drive_link) |
+| Brutal Bulwark POI       	 |  10-9-25	   	 | ++Fortnite+Release-37.50	    |		[Saved, But Not Uploaded]() |
+| Stark Island       	 |  10-9-25	   	 | ++Fortnite+Release-37.50	    |		[Saved, But Not Uploaded]() |
 
 # Blitz Royale - Notes:
 Blitz Royale Released with the v36.10 Update.
@@ -90,8 +99,11 @@ Stark Island Added in 37.20 (9-12-25)
 | Skyline 10        	 |  7-15-25	   	 | ++Fortnite+Release-36.20	    |		[Download](https://drive.google.com/file/d/1eDWnDFCp8KyKHjYAaRHcE1f6CYpu8SWQ/view?usp=sharing) |
 | All Ballistic Maps        	 |  8-26-25	   	 | ++Fortnite+Release-37.10	    |		[Download](https://drive.google.com/file/d/1dZtWrVANiXWUlZ8BHQ54FSUaJzlHrvkD/view?usp=sharing) |
 | All Ballistic Maps        	 |  9-10-25	   	 | ++Fortnite+Release-37.20	    |		[Download](https://drive.google.com/file/d/1dv3_YT4lIZMgp7MOyvSvtgqfE_sTiJ90/view?usp=sharing) |
-| All Ballistic Maps        	 |  9-18-25	   	 | ++Fortnite+Release-37.30	    |		[Not Uploaded Yet]() |
-| All Ballistic Maps        	 |  9-25-25	   	 | ++Fortnite+Release-37.31	    |		[Not Uploaded Yet]() |
+| All Ballistic Maps        	 |  9-18-25	   	 | ++Fortnite+Release-37.30	    |		[Saved, But Not Uploaded]() |
+| All Ballistic Maps        	 |  9-25-25	   	 | ++Fortnite+Release-37.31	    |		[Saved, But Not Uploaded]() |
+| All Ballistic Maps        	 |  10-2-25	   	 | ++Fortnite+Release-37.40	    |		[Saved, But Not Uploaded]() |
+| All Ballistic Maps        	 |  10-9-25	   	 | ++Fortnite+Release-37.50	    |		[Saved, But Not Uploaded]() |
+
 
 # Ballistic - Notes:
 Skyline 10 added in v33.10
@@ -115,6 +127,8 @@ Hammer Fall finished in v37.10
 | Rocket Racing Maps  (All)        	 |  9-10-25	   	 | ++Fortnite+Release-37.20	    |		[Read Message Below]() |
 | Rocket Racing Maps  (All)        	 |  9-18-25	   	 | ++Fortnite+Release-37.30	    |		[Read Message Below]() |
 | Rocket Racing Maps  (All)        	 |  9-25-25	   	 | ++Fortnite+Release-37.31	    |		[Read Message Below]() |
+| Rocket Racing Maps  (All)        	 |  10-2-25	   	 | ++Fortnite+Release-37.40	    |		[Read Message Below]() |
+| Rocket Racing Maps  (All)        	 |  10-9-25	   	 | ++Fortnite+Release-37.50	    |		[Read Message Below]() |
 
 # Rocket Racing Map - Notes:
 Each pack of maps is 5-6gb. (Very Annoying to host)
@@ -146,6 +160,12 @@ If a link goes down and you for some strange reason want Rocket Racing you can D
 | Metallica: Fuel. Fire. Fury.        	 |  9-25-25	   	 | ++Fortnite+Release-37.31	    |		[Download](https://drive.google.com/file/d/1O7nnsiZTOav7c1Dy2ATOkC1Xl2ExiRiZ/view?usp=sharing) |
 | Karol-G: MSB Fortnite        	 |  9-25-25	   	 | ++Fortnite+Release-37.31	    |		[Download](https://drive.google.com/file/d/1m9QcRe03QglE7xfsVHpu4O5ks9NFDu0m/view?usp=sharing) |
 | Nike Airphoria      |  9-25-25	   	 | ++Fortnite+Release-37.31	    |		[Download](https://drive.google.com/file/d/1EqPnfVhTRPZtDmCvVI-VSdo377MMQOjK/view?usp=sharing) |
+| Metallica: Fuel. Fire. Fury.        	 |  10-2-25	   	 | ++Fortnite+Release-37.40	    |		[Download](https://drive.google.com/file/d/1g2B49QWt9Jz7gaAH_kMInlNHcY1JSBHa/view?usp=drive_link) |
+| Karol-G: MSB Fortnite        	 |  10-2-25	   	 | ++Fortnite+Release-37.40	    |		[Download](https://drive.google.com/file/d/1R-ToHEmmTh6Xi5wFSYVd_cHQVHqxJ9j-/view?usp=drive_link) |
+| Nike Airphoria      |  10-2-25	   	 | ++Fortnite+Release-37.40	    |		[Download](https://drive.google.com/file/d/1EJ_4z61cH8cnSmNZM8KB5ovZsVz2Rjxd/view?usp=drive_link) |
+| Metallica: Fuel. Fire. Fury.        	 |  10-9-25	   	 | ++Fortnite+Release-37.50	    |		[Saved, But Not Uploaded]() |
+| Karol-G: MSB Fortnite        	 |  10-9-25	   	 | ++Fortnite+Release-37.50	    |		[Saved, But Not Uploaded]() |
+| Nike Airphoria      |  10-9-25	   	 | ++Fortnite+Release-37.50	    |		[Saved, But Not Uploaded]() |
 
 # Concerts / Special Event Map - Notes:
 Dance with Sabrina Carpenter can't be downloaded on 37.00+
