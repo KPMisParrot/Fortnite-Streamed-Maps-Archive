@@ -26,7 +26,7 @@ I ran out of Google Drive Storage, 37.50+ will be added soon (I'm still saving t
 | Reload (All Maps)        	 |  9-18-25	   	 | ++Fortnite+Release-37.30	    |		[Download](https://drive.google.com/file/d/1GIhxv7o0IraakGYmmYDC0cXteZZT3osv/view?usp=sharing) |
 | Reload (All Maps)        	 |  9-25-25	   	 | ++Fortnite+Release-37.31	    |		[Download](https://drive.google.com/file/d/17qSt9f9Le37-vsL9Op3dyoYL4wkMKe3F/view?usp=sharing) |
 | Reload (All Maps)        	 |  10-2-25	   	 | ++Fortnite+Release-37.40	    |		[Download](https://drive.google.com/file/d/1nKlTXyuy9Cv0DlbqqP75HXWClqcnDku8/view?usp=drive_link) |
-| Reload (All Maps)        	 |  10-9-25	   	 | ++Fortnite+Release-37.50	    |		[Saved, But Not Uploaded]() |
+| Reload (All Maps)        	 |  10-9-25	   	 | ++Fortnite+Release-37.50	    |		[Download](https://drive.google.com/file/d/1LfqajeKUFXVuMSjWhwRzsj5IhFNOBgXp/view?usp=sharing) |
 
 # Reload - Notes:
 Epic Started Streaming Reload Maps from the Servers in v32.00 with the Release of Reload Oasis.
@@ -74,7 +74,7 @@ Another Map is in Development Codenamed "CloudBerry"
 | Stark Island       	 |  9-25-25	   	 | ++Fortnite+Release-37.31	    |		[Download](https://drive.google.com/file/d/1Fkwb9Yre1R3CEuPiJAW4jBnFkYqd9Yu2/view?usp=sharing) |
 | Slap Factory POI       	 |  10-2-25	   	 | ++Fortnite+Release-37.40	    |		[Download](https://drive.google.com/file/d/1pWCKBWe17kNGcAmT_jGxoHGfL1LRX3Vp/view?usp=drive_link) |
 | Stark Island       	 |  10-2-25	   	 | ++Fortnite+Release-37.40	    |		[Download](https://drive.google.com/file/d/1ff_UThps688xoZ5D_qTPXQYYHuuD1a1h/view?usp=drive_link) |
-| Brutal Bulwark POI       	 |  10-9-25	   	 | ++Fortnite+Release-37.50	    |		[Saved, But Not Uploaded]() |
+| Brutal Bulwark POI       	 |  10-9-25	   	 | ++Fortnite+Release-37.50	    |		[Download](https://drive.google.com/file/d/1j83Vf8QkcM5b1o6fAfwzCArsZ8D1k0jj/view?usp=sharing) |
 | Stark Island       	 |  10-9-25	   	 | ++Fortnite+Release-37.50	    |		[Saved, But Not Uploaded]() |
 
 # Blitz Royale - Notes:
