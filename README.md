@@ -163,9 +163,9 @@ If a link goes down and you for some strange reason want Rocket Racing you can D
 | Metallica: Fuel. Fire. Fury.        	 |  10-2-25	   	 | ++Fortnite+Release-37.40	    |		[Download](https://drive.google.com/file/d/1g2B49QWt9Jz7gaAH_kMInlNHcY1JSBHa/view?usp=drive_link) |
 | Karol-G: MSB Fortnite        	 |  10-2-25	   	 | ++Fortnite+Release-37.40	    |		[Download](https://drive.google.com/file/d/1R-ToHEmmTh6Xi5wFSYVd_cHQVHqxJ9j-/view?usp=drive_link) |
 | Nike Airphoria      |  10-2-25	   	 | ++Fortnite+Release-37.40	    |		[Download](https://drive.google.com/file/d/1EJ_4z61cH8cnSmNZM8KB5ovZsVz2Rjxd/view?usp=drive_link) |
-| Metallica: Fuel. Fire. Fury.        	 |  10-9-25	   	 | ++Fortnite+Release-37.50	    |		[Saved, But Not Uploaded]() |
-| Karol-G: MSB Fortnite        	 |  10-9-25	   	 | ++Fortnite+Release-37.50	    |		[Saved, But Not Uploaded]() |
-| Nike Airphoria      |  10-9-25	   	 | ++Fortnite+Release-37.50	    |		[Saved, But Not Uploaded]() |
+| Metallica: Fuel. Fire. Fury.        	 |  10-9-25	   	 | ++Fortnite+Release-37.50	    |		[Download](https://cdn.discordapp.com/attachments/1430398486624473150/1430398862496890991/PakChunk-MetallicaEvent3750.rar?ex=68f9a240&is=68f850c0&hm=d56747a2c1d3711098c8c565877d423385b47b1995295b365626a3126fef00a4&) |
+| Karol-G: MSB Fortnite        	 |  10-9-25	   	 | ++Fortnite+Release-37.50	    |		[Download](https://cdn.discordapp.com/attachments/1430398527460343849/1430398915210907682/PakChunk-Pegasus3750.rar?ex=68f9a24c&is=68f850cc&hm=16b3564edf1d8a2c93c531213a639565b48937fbefced391eb38da4fc21e4aed&) |
+| Nike Airphoria      |  10-9-25	   	 | ++Fortnite+Release-37.50	    |		[Download](https://cdn.discordapp.com/attachments/1430398462851154021/1430398803709530182/PakChunk-NikeAirphoria3750.rar?ex=68f9a232&is=68f850b2&hm=198a3e0aae039fc499a1bfa3f85260006915eb8d441751f4594177aee9427e09&) |
 
 # Concerts / Special Event Map - Notes:
 Dance with Sabrina Carpenter can't be downloaded on 37.00+
