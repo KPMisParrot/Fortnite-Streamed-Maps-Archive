@@ -7,8 +7,6 @@ As of now I will not be sharing how to load these in the editor as it can be use
 
 If you have anything that isn't listed on here you can message me on Discord "kapum1"
 
-I ran out of Google Drive Storage, 37.50+ will be added soon (I'm still saving them)
-
 # Reload Map Versions: 
 | Update                  	 | Date          	 | Game Version	    |		    Download links        | 
 | ------------------------------ | --------------------- | ------------------------ | ------------------------- |
