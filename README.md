@@ -75,7 +75,7 @@ Another Map is in Development Codenamed "CloudBerry"
 | Slap Factory POI       	 |  10-2-25	   	 | ++Fortnite+Release-37.40	    |		[Download](https://drive.google.com/file/d/1pWCKBWe17kNGcAmT_jGxoHGfL1LRX3Vp/view?usp=drive_link) |
 | Stark Island       	 |  10-2-25	   	 | ++Fortnite+Release-37.40	    |		[Download](https://drive.google.com/file/d/1ff_UThps688xoZ5D_qTPXQYYHuuD1a1h/view?usp=drive_link) |
 | Brutal Bulwark POI       	 |  10-9-25	   	 | ++Fortnite+Release-37.50	    |		[Download](https://drive.google.com/file/d/1j83Vf8QkcM5b1o6fAfwzCArsZ8D1k0jj/view?usp=sharing) |
-| Stark Island       	 |  10-9-25	   	 | ++Fortnite+Release-37.50	    |		[Saved, But Not Uploaded]() |
+| Stark Island       	 |  10-9-25	   	 | ++Fortnite+Release-37.50	    |		[Download](https://cdn.discordapp.com/attachments/1430392277334757386/1430396394673410171/Blitz_StarkIsland3750.7z?ex=68f99ff3&is=68f84e73&hm=5082ca1a9929bac1f8d01ecb447d133ed8d63952cd6801fc1ad0c046a90dc5ab&) |
 
 # Blitz Royale - Notes:
 Blitz Royale Released with the v36.10 Update.
@@ -100,9 +100,9 @@ Stark Island Added in 37.20 (9-12-25)
 | All Ballistic Maps        	 |  8-26-25	   	 | ++Fortnite+Release-37.10	    |		[Download](https://drive.google.com/file/d/1dZtWrVANiXWUlZ8BHQ54FSUaJzlHrvkD/view?usp=sharing) |
 | All Ballistic Maps        	 |  9-10-25	   	 | ++Fortnite+Release-37.20	    |		[Download](https://drive.google.com/file/d/1dv3_YT4lIZMgp7MOyvSvtgqfE_sTiJ90/view?usp=sharing) |
 | All Ballistic Maps        	 |  9-18-25	   	 | ++Fortnite+Release-37.30	    |		[Saved, But Not Uploaded]() |
-| All Ballistic Maps        	 |  9-25-25	   	 | ++Fortnite+Release-37.31	    |		[Saved, But Not Uploaded]() |
-| All Ballistic Maps        	 |  10-2-25	   	 | ++Fortnite+Release-37.40	    |		[Saved, But Not Uploaded]() |
-| All Ballistic Maps        	 |  10-9-25	   	 | ++Fortnite+Release-37.50	    |		[Saved, But Not Uploaded]() |
+| All Ballistic Maps        	 |  9-25-25	   	 | ++Fortnite+Release-37.31	    |		[Download](https://cdn.discordapp.com/attachments/1430392277334757386/1430394965279637504/BallisticMaps-3740.rar?ex=68f99e9f&is=68f84d1f&hm=2eb32c4471a44c1e5e21a61a9aaef89604662538545b93046ad6d8b04354440f&) |
+| All Ballistic Maps        	 |  10-2-25	   	 | ++Fortnite+Release-37.40	    |		[Download](https://cdn.discordapp.com/attachments/1430392277334757386/1430394965279637504/BallisticMaps-3740.rar?ex=68f99e9f&is=68f84d1f&hm=2eb32c4471a44c1e5e21a61a9aaef89604662538545b93046ad6d8b04354440f&) |
+| All Ballistic Maps        	 |  10-9-25	   	 | ++Fortnite+Release-37.50	    |		[Download](https://cdn.discordapp.com/attachments/1430392277334757386/1430395066333003776/BallisticMaps-3750.rar?ex=68f99eb7&is=68f84d37&hm=e7d51f93daf3ee92ec742d93236265c59a31638d790d158ee6a26f8b4daed24e&) |
 
 
 # Ballistic - Notes:
