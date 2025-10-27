@@ -25,6 +25,7 @@ If you have anything that isn't listed on here you can message me on Discord "ka
 | Reload (All Maps)        	 |  9-25-25	   	 | ++Fortnite+Release-37.31	    |		[Download](https://drive.google.com/file/d/17qSt9f9Le37-vsL9Op3dyoYL4wkMKe3F/view?usp=sharing) |
 | Reload (All Maps)        	 |  10-2-25	   	 | ++Fortnite+Release-37.40	    |		[Download](https://drive.google.com/file/d/1nKlTXyuy9Cv0DlbqqP75HXWClqcnDku8/view?usp=drive_link) |
 | Reload (All Maps)        	 |  10-9-25	   	 | ++Fortnite+Release-37.50	    |		[Download](https://drive.google.com/file/d/1LfqajeKUFXVuMSjWhwRzsj5IhFNOBgXp/view?usp=sharing) |
+| Reload (All Maps)        	 |  10-22-25	   	 | ++Fortnite+Release-37.51	    |		[Download](https://drive.google.com/file/d/1VLGLKMpOYcyJrgYcYFRxQ9Y1_P85qAUg/view?usp=sharing) |
 
 # Reload - Notes:
 Epic Started Streaming Reload Maps from the Servers in v32.00 with the Release of Reload Oasis.
@@ -74,6 +75,9 @@ Another Map is in Development Codenamed "CloudBerry"
 | Stark Island       	 |  10-2-25	   	 | ++Fortnite+Release-37.40	    |		[Download](https://drive.google.com/file/d/1ff_UThps688xoZ5D_qTPXQYYHuuD1a1h/view?usp=drive_link) |
 | Brutal Bulwark POI       	 |  10-9-25	   	 | ++Fortnite+Release-37.50	    |		[Download](https://drive.google.com/file/d/1j83Vf8QkcM5b1o6fAfwzCArsZ8D1k0jj/view?usp=sharing) |
 | Stark Island       	 |  10-9-25	   	 | ++Fortnite+Release-37.50	    |		[Download](https://cdn.discordapp.com/attachments/1430392277334757386/1430396394673410171/Blitz_StarkIsland3750.7z?ex=68f99ff3&is=68f84e73&hm=5082ca1a9929bac1f8d01ecb447d133ed8d63952cd6801fc1ad0c046a90dc5ab&) |
+| Brutal Bulwark POI       	 |  10-22-25	   	 | ++Fortnite+Release-37.51	    |		[Download](https://cdn.discordapp.com/attachments/1430397517417418834/1431137623149252681/Blitz_BrutalBulwarkPOI_3751.zip?ex=68ff9e06&is=68fe4c86&hm=dce998e1532900363070d9c09ee5a23cfe157c7dbdedbac733ce1e45b613f15a&) |
+| Walking Dead POI       	 |  10-22-25	   	 | ++Fortnite+Release-37.51	    |		[Download](https://cdn.discordapp.com/attachments/1430397517417418834/1431138304710934608/Blitz_StarkIsland3751.zip?ex=68ff9ea9&is=68fe4d29&hm=671bc4510c7abd5080b39939542634859b2c48aee513ef8f2878eb7cbf83dc9c&) |
+| Stark Island       	 |  10-22-25	   	 | ++Fortnite+Release-37.51	    |		[Download](https://cdn.discordapp.com/attachments/1430397517417418834/1432155243566596166/Blitz_WalkingDead3751.7z?ex=69000602&is=68feb482&hm=4ccc82f3dafe011f8d616956cd61a94d003fbb1d7bc43365782a7229a9566bfd&) |
 
 # Blitz Royale - Notes:
 Blitz Royale Released with the v36.10 Update.
@@ -83,6 +87,8 @@ With the v37.10 Release, Blitz Royale now Downloads a Base Set of Files for the 
 Asteria Awakened Added in 37.10 (8-26-25)
 
 Stark Island Added in 37.20 (9-12-25)
+
+Walking Dead Collab POI (10-22-25)
 
 
 # Ballistic Maps: 
@@ -101,6 +107,7 @@ Stark Island Added in 37.20 (9-12-25)
 | All Ballistic Maps        	 |  9-25-25	   	 | ++Fortnite+Release-37.31	    |		[Download](https://cdn.discordapp.com/attachments/1430392277334757386/1430394965279637504/BallisticMaps-3740.rar?ex=68f99e9f&is=68f84d1f&hm=2eb32c4471a44c1e5e21a61a9aaef89604662538545b93046ad6d8b04354440f&) |
 | All Ballistic Maps        	 |  10-2-25	   	 | ++Fortnite+Release-37.40	    |		[Download](https://cdn.discordapp.com/attachments/1430392277334757386/1430394965279637504/BallisticMaps-3740.rar?ex=68f99e9f&is=68f84d1f&hm=2eb32c4471a44c1e5e21a61a9aaef89604662538545b93046ad6d8b04354440f&) |
 | All Ballistic Maps        	 |  10-9-25	   	 | ++Fortnite+Release-37.50	    |		[Download](https://cdn.discordapp.com/attachments/1430392277334757386/1430395066333003776/BallisticMaps-3750.rar?ex=68f99eb7&is=68f84d37&hm=e7d51f93daf3ee92ec742d93236265c59a31638d790d158ee6a26f8b4daed24e&) |
+| All Ballistic Maps        	 |  10-22-25	   	 | ++Fortnite+Release-37.51	    |		[Download](https://cdn.discordapp.com/attachments/1430392277334757386/1432158738848157837/BallisticMaps-3751.7z?ex=69000943&is=68feb7c3&hm=8d63cf918c571b43a6216d5e0f49639f4c6d3f724747263bb373ec4ebed5bb29&) |
 
 
 # Ballistic - Notes:
@@ -127,6 +134,7 @@ Hammer Fall finished in v37.10
 | Rocket Racing Maps  (All)        	 |  9-25-25	   	 | ++Fortnite+Release-37.31	    |		[Read Message Below]() |
 | Rocket Racing Maps  (All)        	 |  10-2-25	   	 | ++Fortnite+Release-37.40	    |		[Read Message Below]() |
 | Rocket Racing Maps  (All)        	 |  10-9-25	   	 | ++Fortnite+Release-37.50	    |		[Read Message Below]() |
+| Rocket Racing Maps  (All)        	 |  10-22-25	   	 | ++Fortnite+Release-37.51	    |		[Read Message Below]() |
 
 # Rocket Racing Map - Notes:
 Each pack of maps is 5-6gb. (Very Annoying to host)
@@ -164,6 +172,9 @@ If a link goes down and you for some strange reason want Rocket Racing you can D
 | Metallica: Fuel. Fire. Fury.        	 |  10-9-25	   	 | ++Fortnite+Release-37.50	    |		[Download](https://cdn.discordapp.com/attachments/1430398486624473150/1430398862496890991/PakChunk-MetallicaEvent3750.rar?ex=68f9a240&is=68f850c0&hm=d56747a2c1d3711098c8c565877d423385b47b1995295b365626a3126fef00a4&) |
 | Karol-G: MSB Fortnite        	 |  10-9-25	   	 | ++Fortnite+Release-37.50	    |		[Download](https://cdn.discordapp.com/attachments/1430398527460343849/1430398915210907682/PakChunk-Pegasus3750.rar?ex=68f9a24c&is=68f850cc&hm=16b3564edf1d8a2c93c531213a639565b48937fbefced391eb38da4fc21e4aed&) |
 | Nike Airphoria      |  10-9-25	   	 | ++Fortnite+Release-37.50	    |		[Download](https://cdn.discordapp.com/attachments/1430398462851154021/1430398803709530182/PakChunk-NikeAirphoria3750.rar?ex=68f9a232&is=68f850b2&hm=198a3e0aae039fc499a1bfa3f85260006915eb8d441751f4594177aee9427e09&) |
+| Metallica: Fuel. Fire. Fury.        	 |  10-22-25	   	 | ++Fortnite+Release-37.51	    |		[Download](https://cdn.discordapp.com/attachments/1430398486624473150/1432158189570494596/MetallicaEvent3751.zip?ex=690008c0&is=68feb740&hm=4b4128a64b10d7c783cc876fc5284e25cf857247e0e9c2c788b0ee427e287815&) |
+| Karol-G: MSB Fortnite        	 |  10-22-25	   	 | ++Fortnite+Release-37.51	    |		[Download](https://cdn.discordapp.com/attachments/1430398527460343849/1432158990317519048/Pegasus3751.zip?ex=6900097f&is=68feb7ff&hm=ec119a3918a61a48b9d42a1408c278f3420ad430691a2af7c48f1e29950d8620&) |
+| Nike Airphoria      |  10-22-25	   	 | ++Fortnite+Release-37.51	    |		[Download](https://cdn.discordapp.com/attachments/1430398462851154021/1432153684875280555/NikeAirphoria3751.rar?ex=6900048e&is=68feb30e&hm=00bbd9b6617120cb2090a4a8fd10d1b27bc1bab83209179320325254695db567&) |
 
 # Concerts / Special Event Map - Notes:
 Dance with Sabrina Carpenter can't be downloaded on 37.00+
