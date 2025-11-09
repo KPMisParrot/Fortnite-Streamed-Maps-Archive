@@ -183,7 +183,7 @@ If a link goes down and you for some strange reason want Rocket Racing you can D
 | Metallica: Fuel. Fire. Fury.        	 |  11-01-25	   	 | ++Fortnite+Release-38.00	    |		[Download](https://cdn.cousincz.com/NikeAirphoria3800) |
 | Karol-G: MSB Fortnite        	 |  11-1-25	   	 | ++Fortnite+Release-38.00	    |		[Download](https://cdn.cousincz.com/Pegasus3800) |
 | Nike Airphoria      |  11-1-25	   	 | ++Fortnite+Release-38.00	    |		[Download](https://cdn.cousincz.com/NikeAirphoria3800) |
-| Disney Horizons      |  11-01-25	   	 | ++Fortnite+Release-38.00	    |		[Download](https://cdn.cousincz.com/DisneyHorizons3800) |
+| Disney Horizons      |  11-1-25	   	 | ++Fortnite+Release-38.00	    |		[Download](https://cdn.cousincz.com/DisneyHorizons3800) |
 
 
 # Concerts / Special Event Map - Notes:
