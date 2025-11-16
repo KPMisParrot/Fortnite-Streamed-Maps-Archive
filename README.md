@@ -25,6 +25,7 @@ If you have anything that isn't listed on here you can message me on Discord "ka
 | Reload (All Maps)        	 |  10-9-25	   	 | ++Fortnite+Release-37.50	    |		[Download](https://drive.google.com/file/d/1LfqajeKUFXVuMSjWhwRzsj5IhFNOBgXp/view?usp=sharing) |
 | Reload (All Maps)        	 |  10-22-25	   	 | ++Fortnite+Release-37.51	    |		[Download](https://drive.google.com/file/d/1VLGLKMpOYcyJrgYcYFRxQ9Y1_P85qAUg/view?usp=sharing) |
 | Reload (All Maps)        	 |  11-1-25	   	 | ++Fortnite+Release-38.00	    |		[Download](https://drive.google.com/file/d/1pApc_gTN6xkRCwqLQrGh3dNB2AqnNQBu/view?usp=sharing) |
+| Reload (All Maps)        	 |  11-11-25	   	 | ++Fortnite+Release-38.10	    |		[Download](https://cdn.cousincz.com/ReloadMaps-3810) |
 
 # Reload - Notes:
 Epic Started Streaming Reload Maps from the Servers in v32.00 with the Release of Reload Oasis.
@@ -79,6 +80,8 @@ Another Map is in Development Codenamed "CloudBerry"
 | Stark Island       	 |  10-22-25	   	 | ++Fortnite+Release-37.51	    |		[Download](https://cdn.cousincz.com/Blitz_StarkIsland3751) |
 | Walking Dead POI       	 |  11-1-25	   	 | ++Fortnite+Release-38.00	    |		[Download](https://cdn.cousincz.com/Blitz_WalkingDead3800) |
 | Stark Island       	 |  11-1-25	   	 | ++Fortnite+Release-38.00	    |		[Download](https://cdn.cousincz.com/Blitz_StarkIsland3800) |
+| Walking Dead POI       	 |  11-11-25	   	 | ++Fortnite+Release-38.10	    |		[Download](https://cdn.cousincz.com/Blitz_WalkingDead3810) |
+| Stark Island       	 |  11-11-25	   	 | ++Fortnite+Release-38.10	    |		[Download](https://cdn.cousincz.com/Blitz_StarkIsland3810) |
 
 # Blitz Royale - Notes:
 Blitz Royale Released with the v36.10 Update.
@@ -102,6 +105,7 @@ Walking Dead Collab POI (10-22-25)
 | Skyline 10        	 |  5-2-25	   	 | ++Fortnite+Release-35.00	    |		[Download](https://drive.google.com/file/d/1nwtJ5YI8RpkFkf2WxG-h9L0fAAmUUMyY/view?usp=sharing) |
 | Skyline 10        	 |  5-16-25	   	 | ++Fortnite+Release-35.10	    |		[Download](https://drive.google.com/file/d/18gXqQp3fnCh1gisHRyRjg86GscQD6QOP/view?usp=sharing) |
 | Skyline 10        	 |  7-15-25	   	 | ++Fortnite+Release-36.20	    |		[Download](https://drive.google.com/file/d/1eDWnDFCp8KyKHjYAaRHcE1f6CYpu8SWQ/view?usp=sharing) |
+| All Ballistic Maps        	 |  7-29-25	   	 | ++Fortnite+Release-36.30	    |		[Saved, But Not Uploaded]() |
 | All Ballistic Maps        	 |  8-26-25	   	 | ++Fortnite+Release-37.10	    |		[Download](https://drive.google.com/file/d/1dZtWrVANiXWUlZ8BHQ54FSUaJzlHrvkD/view?usp=sharing) |
 | All Ballistic Maps        	 |  9-10-25	   	 | ++Fortnite+Release-37.20	    |		[Download](https://drive.google.com/file/d/1dv3_YT4lIZMgp7MOyvSvtgqfE_sTiJ90/view?usp=sharing) |
 | All Ballistic Maps        	 |  9-18-25	   	 | ++Fortnite+Release-37.30	    |		[Saved, But Not Uploaded]() |
@@ -110,6 +114,7 @@ Walking Dead Collab POI (10-22-25)
 | All Ballistic Maps        	 |  10-9-25	   	 | ++Fortnite+Release-37.50	    |		[Download](https://cdn.cousincz.com/BallisticMaps-3750) |
 | All Ballistic Maps        	 |  10-22-25	   	 | ++Fortnite+Release-37.51	    |		[Download](https://cdn.cousincz.com/BallisticMaps-3751) |
 | All Ballistic Maps        	 |  11-1-25	   	 | ++Fortnite+Release-38.00	    |		[Saved, But Not Uploaded]() |
+| All Ballistic Maps        	 |  11-11-25	   	 | ++Fortnite+Release-38.10	    |		[Saved, But Not Uploaded]() |
 
 
 # Ballistic - Notes:
@@ -136,8 +141,9 @@ Hammer Fall finished in v37.10
 | Rocket Racing Maps  (All)        	 |  9-25-25	   	 | ++Fortnite+Release-37.31	    |		[Read Message Below]() |
 | Rocket Racing Maps  (All)        	 |  10-2-25	   	 | ++Fortnite+Release-37.40	    |		[Read Message Below]() |
 | Rocket Racing Maps  (All)        	 |  10-9-25	   	 | ++Fortnite+Release-37.50	    |		[Read Message Below]() |
-| Rocket Racing Maps  (All)        	 |  10-22-25	   	 | ++Fortnite+Release-37.51	    |		[Read Message Below]() |
+| Rocket Racing Maps  (All)        	 |  10-22-25	   	 | ++Fortnite+Release-37.51	    |		[Not Archived - Lost]() |
 | Rocket Racing Maps  (All)        	 |  11-1-25	   	 | ++Fortnite+Release-38.00	    |		[Read Message Below]() |
+| Rocket Racing Maps  (All)        	 |  11-11-25	   	 | ++Fortnite+Release-38.10	    |		[Read Message Below]() |
 
 # Rocket Racing Map - Notes:
 Each pack of maps is 5-6gb. (Very Annoying to host)
@@ -180,10 +186,16 @@ If a link goes down and you for some strange reason want Rocket Racing you can D
 | Karol-G: MSB Fortnite        	 |  10-22-25	   	 | ++Fortnite+Release-37.51	    |		[Download](https://cdn.cousincz.com/Pegasus3751) |
 | Nike Airphoria      |  10-22-25	   	 | ++Fortnite+Release-37.51	    |		[Download](https://cdn.cousincz.com/NikeAirphoria3751) |
 | Disney Horizons      |  10-22-25	   	 | ++Fortnite+Release-37.51	    |		[Download](https://cdn.cousincz.com/DisneyHorizons3751) |
-| Metallica: Fuel. Fire. Fury.        	 |  11-01-25	   	 | ++Fortnite+Release-38.00	    |		[Download](https://cdn.cousincz.com/NikeAirphoria3800) |
+| Metallica: Fuel. Fire. Fury.        	 |  11-1-25	   	 | ++Fortnite+Release-38.00	    |		[Download](https://cdn.cousincz.com/NikeAirphoria3800) |
 | Karol-G: MSB Fortnite        	 |  11-1-25	   	 | ++Fortnite+Release-38.00	    |		[Download](https://cdn.cousincz.com/Pegasus3800) |
 | Nike Airphoria      |  11-1-25	   	 | ++Fortnite+Release-38.00	    |		[Download](https://cdn.cousincz.com/NikeAirphoria3800) |
+| Nike Airphoria Vol. 2     |  11-1-25	   	 | ++Fortnite+Release-38.00	    |		[Download](https://cdn.cousincz.com/NikeAirphoriaVol2_3800) |
 | Disney Horizons      |  11-1-25	   	 | ++Fortnite+Release-38.00	    |		[Download](https://cdn.cousincz.com/DisneyHorizons3800) |
+| Metallica: Fuel. Fire. Fury.        	 |  11-11-25	   	 | ++Fortnite+Release-38.10	    |		[Download](https://cdn.cousincz.com/NikeAirphoria3810) |
+| Karol-G: MSB Fortnite        	 |  11-11-25	   	 | ++Fortnite+Release-38.10	    |		[Download](https://cdn.cousincz.com/Pegasus3810) |
+| Nike Airphoria      |  11-11-25	   	 | ++Fortnite+Release-38.10	    |		[Download](https://cdn.cousincz.com/NikeAirphoria3810) |
+| Nike Airphoria Vol. 2     |  11-11-25	   	 | ++Fortnite+Release-38.10	    |		[Download](https://cdn.cousincz.com/NikeAirphoriaVol2_3810) |
+| Disney Horizons      |  11-11-25	   	 | ++Fortnite+Release-38.10	    |		[Download](https://cdn.cousincz.com/DisneyHorizons3810) |
 
 
 # Concerts / Special Event Map - Notes:
