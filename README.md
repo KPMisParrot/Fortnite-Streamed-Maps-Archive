@@ -105,7 +105,7 @@ Walking Dead Collab POI (10-22-25)
 | Skyline 10        	 |  5-2-25	   	 | ++Fortnite+Release-35.00	    |		[Download](https://drive.google.com/file/d/1nwtJ5YI8RpkFkf2WxG-h9L0fAAmUUMyY/view?usp=sharing) |
 | Skyline 10        	 |  5-16-25	   	 | ++Fortnite+Release-35.10	    |		[Download](https://drive.google.com/file/d/18gXqQp3fnCh1gisHRyRjg86GscQD6QOP/view?usp=sharing) |
 | Skyline 10        	 |  7-15-25	   	 | ++Fortnite+Release-36.20	    |		[Download](https://drive.google.com/file/d/1eDWnDFCp8KyKHjYAaRHcE1f6CYpu8SWQ/view?usp=sharing) |
-| All Ballistic Maps        	 |  7-29-25	   	 | ++Fortnite+Release-36.30	    |		[Saved, But Not Uploaded]() |
+| All Ballistic Maps        	 |  7-29-25	   	 | ++Fortnite+Release-36.30	    |		[Download](https://cdn.cousincz.com/BallisticMaps-3630) |
 | All Ballistic Maps        	 |  8-26-25	   	 | ++Fortnite+Release-37.10	    |		[Download](https://drive.google.com/file/d/1dZtWrVANiXWUlZ8BHQ54FSUaJzlHrvkD/view?usp=sharing) |
 | All Ballistic Maps        	 |  9-10-25	   	 | ++Fortnite+Release-37.20	    |		[Download](https://drive.google.com/file/d/1dv3_YT4lIZMgp7MOyvSvtgqfE_sTiJ90/view?usp=sharing) |
 | All Ballistic Maps        	 |  9-18-25	   	 | ++Fortnite+Release-37.30	    |		[Saved, But Not Uploaded]() |
@@ -114,7 +114,7 @@ Walking Dead Collab POI (10-22-25)
 | All Ballistic Maps        	 |  10-9-25	   	 | ++Fortnite+Release-37.50	    |		[Download](https://cdn.cousincz.com/BallisticMaps-3750) |
 | All Ballistic Maps        	 |  10-22-25	   	 | ++Fortnite+Release-37.51	    |		[Download](https://cdn.cousincz.com/BallisticMaps-3751) |
 | All Ballistic Maps        	 |  11-1-25	   	 | ++Fortnite+Release-38.00	    |		[Saved, But Not Uploaded]() |
-| All Ballistic Maps        	 |  11-11-25	   	 | ++Fortnite+Release-38.10	    |		[Saved, But Not Uploaded]() |
+| All Ballistic Maps        	 |  11-11-25	   	 | ++Fortnite+Release-38.10	    |		[Download](https://cdn.cousincz.com/BallisticMaps-3810) |
 
 
 # Ballistic - Notes:
