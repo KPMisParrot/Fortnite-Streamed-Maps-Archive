@@ -26,6 +26,7 @@ If you have anything that isn't listed on here you can message me on Discord "ka
 | Reload (All Maps)        	 |  10-22-25	   	 | ++Fortnite+Release-37.51	    |		[Download](https://drive.google.com/file/d/1VLGLKMpOYcyJrgYcYFRxQ9Y1_P85qAUg/view?usp=sharing) |
 | Reload (All Maps)        	 |  11-1-25	   	 | ++Fortnite+Release-38.00	    |		[Download](https://drive.google.com/file/d/1pApc_gTN6xkRCwqLQrGh3dNB2AqnNQBu/view?usp=sharing) |
 | Reload (All Maps)        	 |  11-11-25	   	 | ++Fortnite+Release-38.10	    |		[Download](https://cdn.cousincz.com/ReloadMaps-3810) |
+| Reload (All Maps)        	 |  11-19-25	   	 | ++Fortnite+Release-38.11	    |		[Download](https://cdn.cousincz.com/ReloadMaps-3811) |
 
 # Reload - Notes:
 Epic Started Streaming Reload Maps from the Servers in v32.00 with the Release of Reload Oasis.
@@ -82,6 +83,8 @@ Another Map is in Development Codenamed "CloudBerry"
 | Stark Island       	 |  11-1-25	   	 | ++Fortnite+Release-38.00	    |		[Download](https://cdn.cousincz.com/Blitz_StarkIsland3800) |
 | Walking Dead POI       	 |  11-11-25	   	 | ++Fortnite+Release-38.10	    |		[Download](https://cdn.cousincz.com/Blitz_WalkingDead3810) |
 | Stark Island       	 |  11-11-25	   	 | ++Fortnite+Release-38.10	    |		[Download](https://cdn.cousincz.com/Blitz_StarkIsland3810) |
+| Walking Dead POI       	 |  11-19-25	   	 | ++Fortnite+Release-38.11	    |		[Download](https://cdn.cousincz.com/Blitz_WalkingDead3811) |
+| Stark Island       	 |  11-19-25	   	 | ++Fortnite+Release-38.11	    |		[Download](https://cdn.cousincz.com/Blitz_StarkIsland3811) |
 
 # Blitz Royale - Notes:
 Blitz Royale Released with the v36.10 Update.
@@ -186,16 +189,21 @@ If a link goes down and you for some strange reason want Rocket Racing you can D
 | Karol-G: MSB Fortnite        	 |  10-22-25	   	 | ++Fortnite+Release-37.51	    |		[Download](https://cdn.cousincz.com/Pegasus3751) |
 | Nike Airphoria      |  10-22-25	   	 | ++Fortnite+Release-37.51	    |		[Download](https://cdn.cousincz.com/NikeAirphoria3751) |
 | Disney Horizons      |  10-22-25	   	 | ++Fortnite+Release-37.51	    |		[Download](https://cdn.cousincz.com/DisneyHorizons3751) |
-| Metallica: Fuel. Fire. Fury.        	 |  11-1-25	   	 | ++Fortnite+Release-38.00	    |		[Download](https://cdn.cousincz.com/NikeAirphoria3800) |
+| Metallica: Fuel. Fire. Fury.        	 |  11-1-25	   	 | ++Fortnite+Release-38.00	    |		[Download](https://cdn.cousincz.com/MetallicaEvent3800) |
 | Karol-G: MSB Fortnite        	 |  11-1-25	   	 | ++Fortnite+Release-38.00	    |		[Download](https://cdn.cousincz.com/Pegasus3800) |
 | Nike Airphoria      |  11-1-25	   	 | ++Fortnite+Release-38.00	    |		[Download](https://cdn.cousincz.com/NikeAirphoria3800) |
 | Nike Airphoria Vol. 2     |  11-1-25	   	 | ++Fortnite+Release-38.00	    |		[Download](https://cdn.cousincz.com/NikeAirphoriaVol2_3800) |
 | Disney Horizons      |  11-1-25	   	 | ++Fortnite+Release-38.00	    |		[Download](https://cdn.cousincz.com/DisneyHorizons3800) |
-| Metallica: Fuel. Fire. Fury.        	 |  11-11-25	   	 | ++Fortnite+Release-38.10	    |		[Download](https://cdn.cousincz.com/NikeAirphoria3810) |
+| Metallica: Fuel. Fire. Fury.        	 |  11-11-25	   	 | ++Fortnite+Release-38.10	    |		[Download](https://cdn.cousincz.com/MetallicaEvent3810) |
 | Karol-G: MSB Fortnite        	 |  11-11-25	   	 | ++Fortnite+Release-38.10	    |		[Download](https://cdn.cousincz.com/Pegasus3810) |
 | Nike Airphoria      |  11-11-25	   	 | ++Fortnite+Release-38.10	    |		[Download](https://cdn.cousincz.com/NikeAirphoria3810) |
 | Nike Airphoria Vol. 2     |  11-11-25	   	 | ++Fortnite+Release-38.10	    |		[Download](https://cdn.cousincz.com/NikeAirphoriaVol2_3810) |
 | Disney Horizons      |  11-11-25	   	 | ++Fortnite+Release-38.10	    |		[Download](https://cdn.cousincz.com/DisneyHorizons3810) |
+| Metallica: Fuel. Fire. Fury.        	 |  11-19-25	   	 | ++Fortnite+Release-38.11	    |		[Download](https://cdn.cousincz.com/MetallicaEvent3811) |
+| Karol-G: MSB Fortnite        	 |  11-19-25	   	 | ++Fortnite+Release-38.11	    |		[Download](https://cdn.cousincz.com/Pegasus3811) |
+| Nike Airphoria      |  11-19-25	   	 | ++Fortnite+Release-38.11	    |		[Download](https://cdn.cousincz.com/NikeAirphoria3811) |
+| Nike Airphoria Vol. 2     |  11-19-25	   	 | ++Fortnite+Release-38.11	    |		[Download](https://cdn.cousincz.com/NikeAirphoriaVol2_3811) |
+| Disney Horizons      |  11-19-25	   	 | ++Fortnite+Release-38.11	    |		[Download](https://cdn.cousincz.com/DisneyHorizons3811) |
 
 
 # Concerts / Special Event Map - Notes:
