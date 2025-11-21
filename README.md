@@ -85,6 +85,7 @@ Another Map is in Development Codenamed "CloudBerry"
 | Stark Island       	 |  11-11-25	   	 | ++Fortnite+Release-38.10	    |		[Download](https://cdn.cousincz.com/Blitz_StarkIsland3810) |
 | Walking Dead POI       	 |  11-19-25	   	 | ++Fortnite+Release-38.11	    |		[Download](https://cdn.cousincz.com/Blitz_WalkingDead3811) |
 | Stark Island       	 |  11-19-25	   	 | ++Fortnite+Release-38.11	    |		[Download](https://cdn.cousincz.com/Blitz_StarkIsland3811) |
+| Stranger Things Island       	 |  11-21-25	   	 | ++Fortnite+Release-38.11	    |		[Download](https://cdn.cousincz.com/Blitz_StrangerThings_3811) |
 
 # Blitz Royale - Notes:
 Blitz Royale Released with the v36.10 Update.
@@ -96,6 +97,8 @@ Asteria Awakened Added in 37.10 (8-26-25)
 Stark Island Added in 37.20 (9-12-25)
 
 Walking Dead Collab POI (10-22-25)
+
+Stranger Things Island Collab (11-21-25)
 
 
 # Ballistic Maps: 
