@@ -80,11 +80,11 @@ Another Map is in Development Codenamed "CloudBerry"
 | Walking Dead POI       	 |  10-22-25	   	 | ++Fortnite+Release-37.51	    |		[Download](https://cdn.cousincz.com/Blitz_WalkingDead3751) |
 | Stark Island       	 |  10-22-25	   	 | ++Fortnite+Release-37.51	    |		[Download](https://cdn.cousincz.com/Blitz_StarkIsland3751) |
 | Walking Dead POI       	 |  11-1-25	   	 | ++Fortnite+Release-38.00	    |		[Download](https://cdn.cousincz.com/Blitz_WalkingDead3800) |
-| Stark Island       	 |  11-1-25	   	 | ++Fortnite+Release-38.00	    |		[Download](https://cdn.cousincz.com/Blitz_StarkIsland3800) |
+| Stark Island       	 |  11-1-25	   	 | ++Fortnite+Release-38.00	    |		[Download](https://cdn.cousincz.com/Blitz_StarkIsland_3800) |
 | Walking Dead POI       	 |  11-11-25	   	 | ++Fortnite+Release-38.10	    |		[Download](https://cdn.cousincz.com/Blitz_WalkingDead3810) |
-| Stark Island       	 |  11-11-25	   	 | ++Fortnite+Release-38.10	    |		[Download](https://cdn.cousincz.com/Blitz_StarkIsland3810) |
+| Stark Island       	 |  11-11-25	   	 | ++Fortnite+Release-38.10	    |		[Download](https://cdn.cousincz.com/Blitz_StarkIsland_3810) |
 | Walking Dead POI       	 |  11-19-25	   	 | ++Fortnite+Release-38.11	    |		[Download](https://cdn.cousincz.com/Blitz_WalkingDead3811) |
-| Stark Island       	 |  11-19-25	   	 | ++Fortnite+Release-38.11	    |		[Download](https://cdn.cousincz.com/Blitz_StarkIsland3811) |
+| Stark Island       	 |  11-19-25	   	 | ++Fortnite+Release-38.11	    |		[Download](https://cdn.cousincz.com/Blitz_StarkIsland_3811) |
 | Stranger Things Island       	 |  11-21-25	   	 | ++Fortnite+Release-38.11	    |		[Download](https://cdn.cousincz.com/Blitz_StrangerThings_3811) |
 
 # Blitz Royale - Notes:
