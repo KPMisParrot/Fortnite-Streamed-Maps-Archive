@@ -3,6 +3,8 @@ An archive of all Fortnite's Streamed Events / Maps
 
 Each zip has a .pak, .sig, utoc, and .ucas file. The map's files can't be accessed without having the specific game version with UEFN installed.
 
+PAK file is required to load this in UEFN [Download](https://cdn.cousincz.com/pak)
+
 If you have anything that isn't listed on here you can message me on Discord "kapum1"
 
 # Reload Map Versions: 
