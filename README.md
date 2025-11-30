@@ -10,4 +10,4 @@ The Method for Loading any Encrypted Island is Private!
 # Concerts / Special Event Maps: 
 | Update                  	 | Date          	 | Game Version	    |		    Download links        | 
 | ------------------------------ | --------------------- | ------------------------ | ------------------------- |
-| Yuki's Revenge (Kill Bill)        	 |  11-29-25	   	 | ++Fortnite+Release-39.00	    |		[Download]([https://cdn.cousincz.com/DrySquash3900) |
+| Yuki's Revenge (Kill Bill)        	 |  11-29-25	   	 | ++Fortnite+Release-39.00	    |		[Download](https://cdn.cousincz.com/DrySquash3900) |
