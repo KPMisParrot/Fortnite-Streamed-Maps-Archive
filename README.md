@@ -88,6 +88,9 @@ Another Map is in Development Codenamed "CloudBerry"
 | Walking Dead POI       	 |  11-19-25	   	 | ++Fortnite+Release-38.11	    |		[Download](https://cdn.cousincz.com/Blitz_WalkingDead3811) |
 | Stark Island       	 |  11-19-25	   	 | ++Fortnite+Release-38.11	    |		[Download](https://cdn.cousincz.com/Blitz_StarkIsland_3811) |
 | Stranger Things Island       	 |  11-21-25	   	 | ++Fortnite+Release-38.11	    |		[Download](https://cdn.cousincz.com/Blitz_StrangerThings_3811) |
+| Blitz Asteria   |  11-29-25	   	 | ++Fortnite+Release-39.00	    |		[Download](https://cdn.cousincz.com/Blitz_3900) |
+| Stark Island       	 |  11-29-25	   	 | ++Fortnite+Release-39.00	    |		[Download](https://cdn.cousincz.com/Blitz_StarkIsland_3900) |
+| Stranger Things Island       	 |  11-29-25	   	 | ++Fortnite+Release-39.00	    |		[Download](https://cdn.cousincz.com/Blitz_StrangerThings_3900) |
 
 # Blitz Royale - Notes:
 Blitz Royale Released with the v36.10 Update.
