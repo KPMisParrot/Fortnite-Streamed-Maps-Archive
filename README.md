@@ -124,8 +124,10 @@ Stranger Things Island Collab (11-21-25)
 | All Ballistic Maps        	 |  10-2-25	   	 | ++Fortnite+Release-37.40	    |		[Download](https://cdn.cousincz.com/BallisticMaps-3740) |
 | All Ballistic Maps        	 |  10-9-25	   	 | ++Fortnite+Release-37.50	    |		[Download](https://cdn.cousincz.com/BallisticMaps-3750) |
 | All Ballistic Maps        	 |  10-22-25	   	 | ++Fortnite+Release-37.51	    |		[Download](https://cdn.cousincz.com/BallisticMaps-3751) |
-| All Ballistic Maps        	 |  11-1-25	   	 | ++Fortnite+Release-38.00	    |		[Saved, But Not Uploaded]() |
+| All Ballistic Maps        	 |  11-1-25	   	 | ++Fortnite+Release-38.00	    |		[Not Archived - Lost]() |
 | All Ballistic Maps        	 |  11-11-25	   	 | ++Fortnite+Release-38.10	    |		[Download](https://cdn.cousincz.com/BallisticMaps-3810) |
+| All Ballistic Maps        	 |  11-19-25	   	 | ++Fortnite+Release-38.11	    |		[Saved, But Not Uploaded]() |
+| All Ballistic Maps        	 |  11-29-25	   	 | ++Fortnite+Release-39.00	    |		[Saved, But Not Uploaded]() |
 
 
 # Ballistic - Notes:
@@ -155,6 +157,8 @@ Hammer Fall finished in v37.10
 | Rocket Racing Maps  (All)        	 |  10-22-25	   	 | ++Fortnite+Release-37.51	    |		[Not Archived - Lost]() |
 | Rocket Racing Maps  (All)        	 |  11-1-25	   	 | ++Fortnite+Release-38.00	    |		[Read Message Below]() |
 | Rocket Racing Maps  (All)        	 |  11-11-25	   	 | ++Fortnite+Release-38.10	    |		[Read Message Below]() |
+| Rocket Racing Maps  (All)        	 |  11-19-25	   	 | ++Fortnite+Release-38.11	    |		[Read Message Below]() |
+| Rocket Racing Maps  (All)        	 |  11-29-25	   	 | ++Fortnite+Release-39.00	    |		[Read Message Below]() |
 
 # Rocket Racing Map - Notes:
 Each pack of maps is 5-6gb. (Very Annoying to host)
