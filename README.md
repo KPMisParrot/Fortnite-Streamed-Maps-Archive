@@ -29,6 +29,8 @@ If you have anything that isn't listed on here you can message me on Discord "ka
 | Reload (All Maps)        	 |  11-1-25	   	 | ++Fortnite+Release-38.00	    |		[Download](https://drive.google.com/file/d/1pApc_gTN6xkRCwqLQrGh3dNB2AqnNQBu/view?usp=sharing) |
 | Reload (All Maps)        	 |  11-11-25	   	 | ++Fortnite+Release-38.10	    |		[Download](https://cdn.cousincz.com/ReloadMaps-3810) |
 | Reload (All Maps)        	 |  11-19-25	   	 | ++Fortnite+Release-38.11	    |		[Download](https://cdn.cousincz.com/ReloadMaps-3811) |
+| Reload (All Maps)        	 |  11-19-25	   	 | ++Fortnite+Release-38.11	    |		[Download](https://cdn.cousincz.com/ReloadMaps-3811) |
+| Reload (All Maps)        	 |  12-4-25	   	 | ++Fortnite+Release-39.00	    |		[Download](https://cdn.cousincz.com/ReloadMaps-3900) |
 
 # Reload - Notes:
 Epic Started Streaming Reload Maps from the Servers in v32.00 with the Release of Reload Oasis.
@@ -45,7 +47,9 @@ Reload Released in v30.20 (Not Streamed at the Time)
 
 - Nightmare Island Update v37.50
 
-Another Map is in Development Codenamed "CloudBerry"
+- Surf City Update v39.00
+
+Another Map is in Development Codenamed "CloudBerry" # Scrapped
 - Themed Around C2S2 (Grotto, Agency, Yacht, Rig, and Shark)
 - Spy Bases / Houses
 - Hydro 16 + Dam Landmark
@@ -91,6 +95,7 @@ Another Map is in Development Codenamed "CloudBerry"
 | Blitz Asteria   |  11-29-25	   	 | ++Fortnite+Release-39.00	    |		[Download](https://cdn.cousincz.com/Blitz_3900) |
 | Stark Island       	 |  11-29-25	   	 | ++Fortnite+Release-39.00	    |		[Download](https://cdn.cousincz.com/Blitz_StarkIsland_3900) |
 | Stranger Things Island       	 |  11-29-25	   	 | ++Fortnite+Release-39.00	    |		[Download](https://cdn.cousincz.com/Blitz_StrangerThings_3900) |
+| Starfall Island       	 |  12-4-25	   	 | ++Fortnite+Release-39.00	    |		[Download](https://cdn.cousincz.com/Blitz_Starfall_Island) |
 
 # Blitz Royale - Notes:
 Blitz Royale Released with the v36.10 Update.
@@ -101,9 +106,11 @@ Asteria Awakened Added in 37.10 (8-26-25)
 
 Stark Island Added in 37.20 (9-12-25)
 
-Walking Dead Collab POI (10-22-25)
+Walking Dead Collab POI in 37.51 (10-22-25)
 
-Stranger Things Island Collab (11-21-25)
+Stranger Things Island Collab in 38.11 (11-21-25)
+
+Starfall Island in 39.00 (12-4-25)
 
 
 # Ballistic Maps: 
