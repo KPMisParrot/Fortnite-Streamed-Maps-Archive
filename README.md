@@ -223,6 +223,11 @@ If a link goes down and you for some strange reason want Rocket Racing you can D
 | Nike Airphoria      |  11-19-25	   	 | ++Fortnite+Release-38.11	    |		[Download](https://cdn.cousincz.com/NikeAirphoria3811) |
 | Nike Airphoria Vol. 2     |  11-19-25	   	 | ++Fortnite+Release-38.11	    |		[Download](https://cdn.cousincz.com/NikeAirphoriaVol2_3811) |
 | Disney Horizons      |  11-19-25	   	 | ++Fortnite+Release-38.11	    |		[Download](https://cdn.cousincz.com/DisneyHorizons3811) |
+| Metallica: Fuel. Fire. Fury.        	 |  11-29-25	   	 | ++Fortnite+Release-39.00	    |		[Download](https://cdn.cousincz.com/MetallicaEvent3900) |
+| Karol-G: MSB Fortnite        	 |  11-29-25	   	 | ++Fortnite+Release-39.00	    |		[Download](https://cdn.cousincz.com/Pegasus3900) |
+| Nike Airphoria      |  11-29-25	   	 | ++Fortnite+Release-39.00	    |		[Download](https://cdn.cousincz.com/NikeAirphoria3900) |
+| Nike Airphoria Vol. 2     |  11-29-25	   	 | ++Fortnite+Release-39.00	    |		[Download](https://cdn.cousincz.com/NikeAirphoriaVol2_3900) |
+| Disney Horizons      |  11-29-25	   	 | ++Fortnite+Release-39.00	    |		[Download](https://cdn.cousincz.com/DisneyHorizons3900) |
 
 
 # Concerts / Special Event Map - Notes:
