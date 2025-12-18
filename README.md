@@ -141,7 +141,7 @@ Starfall Island in 39.00 (12-4-25)
 | All Ballistic Maps        	 |  10-22-25	   	 | ++Fortnite+Release-37.51	    |		[Download](https://cdn.cousincz.com/BallisticMaps-3751) |
 | All Ballistic Maps        	 |  11-1-25	   	 | ++Fortnite+Release-38.00	    |		[Not Archived - Lost]() |
 | All Ballistic Maps        	 |  11-11-25	   	 | ++Fortnite+Release-38.10	    |		[Download](https://cdn.cousincz.com/BallisticMaps-3810) |
-| All Ballistic Maps        	 |  11-19-25	   	 | ++Fortnite+Release-38.11	    |		[Saved, But Not Uploaded]() |
+| All Ballistic Maps        	 |  11-19-25	   	 | ++Fortnite+Release-38.11	    |		[Download](https://cdn.cousincz.com/BallisticMaps-3811) |
 | All Ballistic Maps        	 |  11-29-25	   	 | ++Fortnite+Release-39.00	    |		[Download](https://cdn.cousincz.com/BallisticMaps-3900) |
 
 
