@@ -32,7 +32,7 @@ If you have anything that isn't listed on here you can message me on Discord "ka
 | Reload (All Maps)        	 |  11-19-25	   	 | ++Fortnite+Release-38.11	    |		[Download](https://cdn.cousincz.com/ReloadMaps-3811) |
 | Reload (All Maps)        	 |  12-4-25	   	 | ++Fortnite+Release-39.00	    |		[Download](https://cdn.cousincz.com/ReloadMaps-3900) |
 | Reload (All Maps)        	 |  12-4-25	   	 | ++Fortnite+Release-39.00	    |		[Soon] |
-| Reload (All Maps)        	 |  12-4-25	   	 | ++Fortnite+Release-39.00	    |		[Download](https://cdn.cousincz.com/ReloadMaps-3911) |
+| Reload (All Maps)        	 |  12-4-25	   	 | ++Fortnite+Release-39.11	    |		[Download](https://cdn.cousincz.com/ReloadMaps-3911) |
 
 # Reload - Notes:
 Epic Started Streaming Reload Maps from the Servers in v32.00 with the Release of Reload Oasis.
@@ -146,7 +146,7 @@ Starfall Island in 39.00 (12-4-25)
 | All Ballistic Maps        	 |  11-19-25	   	 | ++Fortnite+Release-38.11	    |		[Download](https://cdn.cousincz.com/BallisticMaps-3811) |
 | All Ballistic Maps        	 |  11-29-25	   	 | ++Fortnite+Release-39.00	    |		[Download](https://cdn.cousincz.com/BallisticMaps-3900) |
 | All Ballistic Maps        	 |  12-10-25	   	 | ++Fortnite+Release-39.10	    |		[Soon] |
-| All Ballistic Maps        	 |  12-19-25	   	 | ++Fortnite+Release-39.00	    |		[Download](https://cdn.cousincz.com/BallisticMaps-3911) |
+| All Ballistic Maps        	 |  12-19-25	   	 | ++Fortnite+Release-39.11	    |		[Download](https://cdn.cousincz.com/BallisticMaps-3911) |
 
 # Ballistic - Notes:
 Skyline 10 added in v33.10
