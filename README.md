@@ -114,7 +114,7 @@ Another Map is in Development Codenamed "CloudBerry" # Scrapped
 | Starfall Island       	 |  1-9-26	   	 | ++Fortnite+Release-39.20	    |		[Soon] |
 | Blitz Asteria   |  1-22-26		   	 | ++Fortnite+Release-39.30	    |		[Soon] |
 | Stark Island       	 |  1-22-26		   	 | ++Fortnite+Release-39.30	    |		[Soon] |
-| Stranger Things Island       	 |  1-22-26		   	 | ++Fortnite+Release-39.11	    |		[Soon] |
+| Stranger Things Island       	 |  1-22-26		   	 | ++Fortnite+Release-39.30	    |		[Soon] |
 | Starfall Island       	 |  1-22-26	   	 | ++Fortnite+Release-39.30	    |		[Soon] |
 
 # Blitz Royale - Notes:
