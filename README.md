@@ -34,6 +34,7 @@ If you have anything that isn't listed on here you can message me on Discord "ka
 | Reload (All Maps)        	 |  12-12-25	   	 | ++Fortnite+Release-39.00	    |		[Soon] |
 | Reload (All Maps)        	 |  12-19-25	   	 | ++Fortnite+Release-39.11	    |		[Download](https://cdn.cousincz.com/ReloadMaps-3911) |
 | Reload (All Maps)        	 |  1-9-26	   	 | ++Fortnite+Release-39.20     |		[Download](https://cdn.cousincz.com/ReloadMaps-3920) |
+| Reload (All Maps)        	 |  1-9-26	   	 | ++Fortnite+Release-39.20     |		[Download](https://cdn.cousincz.com/ReloadMaps-3930) |
 
 # Reload - Notes:
 Epic Started Streaming Reload Maps from the Servers in v32.00 with the Release of Reload Oasis.
@@ -108,6 +109,16 @@ Another Map is in Development Codenamed "CloudBerry" # Scrapped
 | Stranger Things Island       	 |  12-18-25	   	 | ++Fortnite+Release-39.11	    |		[Download](https://cdn.cousincz.com/Blitz_StrangerThings_3911) |
 | Starfall Island       	 |  12-18-25	   	 | ++Fortnite+Release-39.11	    |		[Download](https://cdn.cousincz.com/Blitz_Starfall_3911) |
 
+| Blitz Asteria   |   1-9-26	   	 | ++Fortnite+Release-39.20	    |		[Soon] |
+| Stark Island       	 |  1-9-26	   	 | ++Fortnite+Release-39.20	    |		[Soon] |
+| Stranger Things Island       	 |  1-9-26	   	 | ++Fortnite+Release-39.20	    |		[Soon] |
+| Starfall Island       	 |  1-9-26	   	 | ++Fortnite+Release-39.20	    |		[Soon] |
+
+| Blitz Asteria   |  1-22-26		   	 | ++Fortnite+Release-39.30	    |		[Soon] |
+| Stark Island       	 |  1-22-26		   	 | ++Fortnite+Release-39.30	    |		[Soon] |
+| Stranger Things Island       	 |  1-22-26		   	 | ++Fortnite+Release-39.11	    |		[Soon] |
+| Starfall Island       	 |  1-22-26	   	 | ++Fortnite+Release-39.30	    |		[Soon] |
+
 # Blitz Royale - Notes:
 Blitz Royale Released with the v36.10 Update.
 
@@ -149,6 +160,7 @@ Starfall Island in 39.00 (12-4-25)
 | All Ballistic Maps        	 |  12-10-25	   	 | ++Fortnite+Release-39.10	    |		[Soon] |
 | All Ballistic Maps        	 |  12-19-25	   	 | ++Fortnite+Release-39.11	    |		[Download](https://cdn.cousincz.com/BallisticMaps-3911) |
 | All Ballistic Maps        	 |  1-9-26	   	 | ++Fortnite+Release-39.20	    |		[Download](https://cdn.cousincz.com/BallisticMaps-3920) |
+| All Ballistic Maps        	 |  1-9-26	   	 | ++Fortnite+Release-39.20	    |		[Download](https://cdn.cousincz.com/BallisticMaps-3930) |
 
 # Ballistic - Notes:
 Skyline 10 added in v33.10
