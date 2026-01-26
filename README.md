@@ -108,10 +108,10 @@ Another Map is in Development Codenamed "CloudBerry" # Scrapped
 | Stark Island       	 |  12-18-25	   	 | ++Fortnite+Release-39.11	    |		[Download](https://cdn.cousincz.com/Blitz_StarkIsland_3911) |
 | Stranger Things Island       	 |  12-18-25	   	 | ++Fortnite+Release-39.11	    |		[Download](https://cdn.cousincz.com/Blitz_StrangerThings_3911) |
 | Starfall Island       	 |  12-18-25	   	 | ++Fortnite+Release-39.11	    |		[Download](https://cdn.cousincz.com/Blitz_Starfall_3911) |
-| Blitz Asteria   |   1-9-26	   	 | ++Fortnite+Release-39.20	    |		[Soon] |
-| Stark Island       	 |  1-9-26	   	 | ++Fortnite+Release-39.20	    |		[Soon] |
-| Stranger Things Island       	 |  1-9-26	   	 | ++Fortnite+Release-39.20	    |		[Soon] |
-| Starfall Island       	 |  1-9-26	   	 | ++Fortnite+Release-39.20	    |		[Soon] |
+| Blitz Asteria   |   1-9-26	   	 | ++Fortnite+Release-39.20	    |		[Download](https://cdn.cousincz.com/Blitz_3920) |
+| Stark Island       	 |  1-9-26	   	 | ++Fortnite+Release-39.20	    |		[Download](https://cdn.cousincz.com/Blitz_StarkIsland_3920) |
+| Stranger Things Island       	 |  1-9-26	   	 | ++Fortnite+Release-39.20	    |		[Download](https://cdn.cousincz.com/Blitz_StrangerThings_3920) |
+| Starfall Island       	 |  1-9-26	   	 | ++Fortnite+Release-39.20	    |		[Download](https://cdn.cousincz.com/Blitz_Starfall_3920) |
 | Blitz Asteria   |  1-22-26		   	 | ++Fortnite+Release-39.30	    |		[Soon] |
 | Stark Island       	 |  1-22-26		   	 | ++Fortnite+Release-39.30	    |		[Soon] |
 | Stranger Things Island       	 |  1-22-26		   	 | ++Fortnite+Release-39.30	    |		[Soon] |
