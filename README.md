@@ -31,7 +31,7 @@ If you have anything that isn't listed on here you can message me on Discord "ka
 | Reload (All Maps)        	 |  11-19-25	   	 | ++Fortnite+Release-38.11	    |		[Download](https://cdn.cousincz.com/ReloadMaps-3811) |
 | Reload (All Maps)        	 |  11-19-25	   	 | ++Fortnite+Release-38.11	    |		[Download](https://cdn.cousincz.com/ReloadMaps-3811) |
 | Reload (All Maps)        	 |  12-4-25	   	 | ++Fortnite+Release-39.00	    |		[Download](https://cdn.cousincz.com/ReloadMaps-3900) |
-| Reload (All Maps)        	 |  12-12-25	   	 | ++Fortnite+Release-39.00	    |		[Soon] |
+| Reload (All Maps)        	 |  12-12-25	   	 | ++Fortnite+Release-39.10	    |		[Soon] |
 | Reload (All Maps)        	 |  12-19-25	   	 | ++Fortnite+Release-39.11	    |		[Download](https://cdn.cousincz.com/ReloadMaps-3911) |
 | Reload (All Maps)        	 |  1-9-26	   	 | ++Fortnite+Release-39.20     |		[Download](https://cdn.cousincz.com/ReloadMaps-3920) |
 | Reload (All Maps)        	 |  1-9-26	   	 | ++Fortnite+Release-39.30     |		[Download](https://cdn.cousincz.com/ReloadMaps-3930) |
