@@ -158,7 +158,7 @@ Starfall Island in 39.00 (12-4-25)
 | All Ballistic Maps        	 |  12-10-25	   	 | ++Fortnite+Release-39.10	    |		[Soon] |
 | All Ballistic Maps        	 |  12-19-25	   	 | ++Fortnite+Release-39.11	    |		[Download](https://cdn.cousincz.com/BallisticMaps-3911) |
 | All Ballistic Maps        	 |  1-9-26	   	 | ++Fortnite+Release-39.20	    |		[Download](https://cdn.cousincz.com/BallisticMaps-3920) |
-| All Ballistic Maps        	 |  1-9-26	   	 | ++Fortnite+Release-39.30	    |		[Download](https://cdn.cousincz.com/BallisticMaps-3930) |
+| All Ballistic Maps        	 |  1-22-26	   	 | ++Fortnite+Release-39.30	    |		[Download](https://cdn.cousincz.com/BallisticMaps-3930) |
 
 # Ballistic - Notes:
 Skyline 10 added in v33.10
