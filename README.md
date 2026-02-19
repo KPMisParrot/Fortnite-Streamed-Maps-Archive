@@ -36,6 +36,7 @@ If you have anything that isn't listed on here you can message me on Discord "ka
 | Reload (All Maps)        	 |  1-9-26	   	 | ++Fortnite+Release-39.20     |		[Download](https://cdn.cousincz.com/ReloadMaps-3920) |
 | Reload (All Maps)        	 |  1-22-26	   	 | ++Fortnite+Release-39.30     |		[Download](https://cdn.cousincz.com/ReloadMaps-3930) |
 | Reload (All Maps)        	 |  2-5-26	   	 | ++Fortnite+Release-39.40     |		[Download](https://cdn.cousincz.com/ReloadMaps-3940) |
+| Reload (All Maps)        	 |  2-19-26	   	 | ++Fortnite+Release-39.50     |		[Download](https://cdn.cousincz.com/ReloadMaps-3950) |
 
 # Reload - Notes:
 Epic Started Streaming Reload Maps from the Servers in v32.00 with the Release of Reload Oasis.
@@ -118,6 +119,7 @@ Another Map is in Development Codenamed "CloudBerry" # Scrapped
 | Stranger Things Island       	 |  1-22-26		   	 | ++Fortnite+Release-39.30	    |		[Download](https://cdn.cousincz.com/Blitz_StrangerThings_3930) |
 | Starfall Island       	 |  1-22-26	   	 | ++Fortnite+Release-39.30	    |		[Download](https://cdn.cousincz.com/Blitz_Starfall_3930) |
 | Blitz (All Maps)        	 |  2-5-26	   	 | ++Fortnite+Release-39.40     |		[Download](https://cdn.cousincz.com/BlitzPack-3940) |
+| Blitz (All Maps)        	 |  2-19-26	   	 | ++Fortnite+Release-39.50     |		[Download](https://cdn.cousincz.com/BlitzPack-3950) |
 
 # Blitz Royale - Notes:
 Blitz Royale Released with the v36.10 Update.
@@ -162,6 +164,7 @@ Starfall Island in 39.00 (12-4-25)
 | All Ballistic Maps        	 |  1-9-26	   	 | ++Fortnite+Release-39.20	    |		[Download](https://cdn.cousincz.com/BallisticMaps-3920) |
 | All Ballistic Maps        	 |  1-22-26	   	 | ++Fortnite+Release-39.30	    |		[Download](https://cdn.cousincz.com/BallisticMaps-3930) |
 | All Ballistic Maps        	 |  2-5-26	   	 | ++Fortnite+Release-39.40	    |		[Download](https://cdn.cousincz.com/BallisticMaps-3940) |
+| All Ballistic Maps        	 |  2-19-26	   	 | ++Fortnite+Release-39.50	    |		[Download](https://cdn.cousincz.com/BallisticMaps-3950) |
 
 # Ballistic - Notes:
 Skyline 10 added in v33.10
