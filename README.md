@@ -43,6 +43,7 @@ If you have anything that isn't listed on here you can message me on Discord "ka
 | Reload (All Maps)        	 |  xxxxxxx	   	 | ++Fortnite+Release-40.20     |		[Download](https://cdn.cousincz.com/ReloadMaps-4020) |
 | Reload (All Maps)        	 |  xxxxxxx	   	 | ++Fortnite+Release-40.30     |		[Download](https://cdn.cousincz.com/ReloadMaps-4030) |
 | Reload (All Maps)        	 |  xxxxxxx	   	 | ++Fortnite+Release-40.40     |		[Download](https://cdn.cousincz.com/ReloadMaps-4040) |
+| Reload (All Maps)        	 |  xxxxxxx	   	 | ++Fortnite+Release-40.41     |		[Download](https://cdn.cousincz.com/ReloadMaps-4041) |
 | Reload (All Maps)        	 |  xxxxxxx	   	 | ++Fortnite+Release-41.00     |		[Download](https://cdn.cousincz.com/ReloadMaps-4100) |
 | Reload (All Maps)        	 |  xxxxxxx	   	 | ++Fortnite+Release-41.10     |		[Download](https://cdn.cousincz.com/ReloadMaps-4110) |
 
@@ -134,7 +135,7 @@ Another Map is in Development Codenamed "CloudBerry" # Scrapped
 | Blitz (All Maps)        	 |  xxxxxxx	   	 | ++Fortnite+Release-40.20     |		[Download](https://cdn.cousincz.com/BlitzPack-4020) |
 | Blitz (All Maps)        	 |  xxxxxxx	   	 | ++Fortnite+Release-40.30     |		[Download](https://cdn.cousincz.com/BlitzPack-4030) |
 | Blitz (All Maps)        	 |  xxxxxxx	   	 | ++Fortnite+Release-40.40     |		[Download](https://cdn.cousincz.com/BlitzPack-4040) |
-| Blitz (All Maps)        	 |  xxxxxxx	   	 | ++Fortnite+Release-40.40     |		[Download](https://cdn.cousincz.com/BlitzPack-4041) |
+| Blitz (All Maps)        	 |  xxxxxxx	   	 | ++Fortnite+Release-40.41     |		[Download](https://cdn.cousincz.com/BlitzPack-4041) |
 | Blitz (All Maps)        	 |  xxxxxxx	   	 | ++Fortnite+Release-41.00     |		[Download](https://cdn.cousincz.com/BlitzPack-4100) |
 | Blitz (All Maps)        	 |  xxxxxxx	   	 | ++Fortnite+Release-41.10     |		[Download](https://cdn.cousincz.com/BlitzPack-4110) |
 
