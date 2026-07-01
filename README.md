@@ -37,6 +37,14 @@ If you have anything that isn't listed on here you can message me on Discord "ka
 | Reload (All Maps)        	 |  1-22-26	   	 | ++Fortnite+Release-39.30     |		[Download](https://cdn.cousincz.com/ReloadMaps-3930) |
 | Reload (All Maps)        	 |  2-5-26	   	 | ++Fortnite+Release-39.40     |		[Download](https://cdn.cousincz.com/ReloadMaps-3940) |
 | Reload (All Maps)        	 |  2-19-26	   	 | ++Fortnite+Release-39.50     |		[Download](https://cdn.cousincz.com/ReloadMaps-3950) |
+| Reload (All Maps)        	 |  xxxxxxx	   	 | ++Fortnite+Release-39.51     |		[Download](https://cdn.cousincz.com/ReloadMaps-3951) |
+| Reload (All Maps)        	 |  xxxxxxx	   	 | ++Fortnite+Release-40.00     |		[Download](https://cdn.cousincz.com/ReloadMaps-4000) |
+| Reload (All Maps)        	 |  xxxxxxx	   	 | ++Fortnite+Release-40.10     |		[Download](https://cdn.cousincz.com/ReloadMaps-4010) |
+| Reload (All Maps)        	 |  xxxxxxx	   	 | ++Fortnite+Release-40.20     |		[Download](https://cdn.cousincz.com/ReloadMaps-4020) |
+| Reload (All Maps)        	 |  xxxxxxx	   	 | ++Fortnite+Release-40.30     |		[Download](https://cdn.cousincz.com/ReloadMaps-4030) |
+| Reload (All Maps)        	 |  xxxxxxx	   	 | ++Fortnite+Release-40.40     |		[Download](https://cdn.cousincz.com/ReloadMaps-4040) |
+| Reload (All Maps)        	 |  xxxxxxx	   	 | ++Fortnite+Release-41.00     |		[Download](https://cdn.cousincz.com/ReloadMaps-4100) |
+| Reload (All Maps)        	 |  xxxxxxx	   	 | ++Fortnite+Release-41.10     |		[Download](https://cdn.cousincz.com/ReloadMaps-4110) |
 
 # Reload - Notes:
 Epic Started Streaming Reload Maps from the Servers in v32.00 with the Release of Reload Oasis.
@@ -120,6 +128,15 @@ Another Map is in Development Codenamed "CloudBerry" # Scrapped
 | Starfall Island       	 |  1-22-26	   	 | ++Fortnite+Release-39.30	    |		[Download](https://cdn.cousincz.com/Blitz_Starfall_3930) |
 | Blitz (All Maps)        	 |  2-5-26	   	 | ++Fortnite+Release-39.40     |		[Download](https://cdn.cousincz.com/BlitzPack-3940) |
 | Blitz (All Maps)        	 |  2-19-26	   	 | ++Fortnite+Release-39.50     |		[Download](https://cdn.cousincz.com/BlitzPack-3950) |
+| Blitz (All Maps)        	 |  xxxxxxx   	 | ++Fortnite+Release-39.51     |		[Download](https://cdn.cousincz.com/BlitzPack-3951) |
+| Blitz (All Maps)        	 |  xxxxxxx	   	 | ++Fortnite+Release-40.00     |		[Download](https://cdn.cousincz.com/BlitzPack-4000) |
+| Blitz (All Maps)        	 |  xxxxxxx	   	 | ++Fortnite+Release-40.10     |		[Download](https://cdn.cousincz.com/BlitzPack-4010) |
+| Blitz (All Maps)        	 |  xxxxxxx	   	 | ++Fortnite+Release-40.20     |		[Download](https://cdn.cousincz.com/BlitzPack-4020) |
+| Blitz (All Maps)        	 |  xxxxxxx	   	 | ++Fortnite+Release-40.30     |		[Download](https://cdn.cousincz.com/BlitzPack-4030) |
+| Blitz (All Maps)        	 |  xxxxxxx	   	 | ++Fortnite+Release-40.40     |		[Download](https://cdn.cousincz.com/BlitzPack-4040) |
+| Blitz (All Maps)        	 |  xxxxxxx	   	 | ++Fortnite+Release-40.40     |		[Download](https://cdn.cousincz.com/BlitzPack-4041) |
+| Blitz (All Maps)        	 |  xxxxxxx	   	 | ++Fortnite+Release-41.00     |		[Download](https://cdn.cousincz.com/BlitzPack-4100) |
+| Blitz (All Maps)        	 |  xxxxxxx	   	 | ++Fortnite+Release-41.10     |		[Download](https://cdn.cousincz.com/BlitzPack-4110) |
 
 # Blitz Royale - Notes:
 Blitz Royale Released with the v36.10 Update.
@@ -165,6 +182,15 @@ Starfall Island in 39.00 (12-4-25)
 | All Ballistic Maps        	 |  1-22-26	   	 | ++Fortnite+Release-39.30	    |		[Download](https://cdn.cousincz.com/BallisticMaps-3930) |
 | All Ballistic Maps        	 |  2-5-26	   	 | ++Fortnite+Release-39.40	    |		[Download](https://cdn.cousincz.com/BallisticMaps-3940) |
 | All Ballistic Maps        	 |  2-19-26	   	 | ++Fortnite+Release-39.50	    |		[Download](https://cdn.cousincz.com/BallisticMaps-3950) |
+| All Ballistic Maps        	 |  xxxxxxx	   	 | ++Fortnite+Release-39.51	    |		[Download](https://cdn.cousincz.com/BallisticMaps-3951) |
+| All Ballistic Maps        	 |  xxxxxxx	   	 | ++Fortnite+Release-40.00	    |		[Download](https://cdn.cousincz.com/BallisticMaps-4000) |
+| All Ballistic Maps        	 |  xxxxxxx	   	 | ++Fortnite+Release-40.10	    |		[Download](https://cdn.cousincz.com/BallisticMaps-4010) |
+| All Ballistic Maps        	 |  xxxxxxx	   	 | ++Fortnite+Release-40.20	    |		[Download](https://cdn.cousincz.com/BallisticMaps-4020) |
+| All Ballistic Maps        	 |  xxxxxxx	   	 | ++Fortnite+Release-40.30	    |		[Download](https://cdn.cousincz.com/BallisticMaps-4030) |
+| All Ballistic Maps        	 |  xxxxxxx	   	 | ++Fortnite+Release-40.40	    |		[Download](https://cdn.cousincz.com/BallisticMaps-4040) |
+| All Ballistic Maps        	 |  xxxxxxx	   	 | ++Fortnite+Release-40.41	    |		[Download](https://cdn.cousincz.com/BallisticMaps-4041) |
+| All Ballistic Maps        	 |  xxxxxxx	   	 | ++Fortnite+Release-41.00     |		[Download](https://cdn.cousincz.com/BallisticMaps-4100) |
+| All Ballistic Maps        	 |  xxxxxxx	   	 | ++Fortnite+Release-41.10     |		[Download](https://cdn.cousincz.com/BallisticMaps-4110) |
 
 # Ballistic - Notes:
 Skyline 10 added in v33.10
