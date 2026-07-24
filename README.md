@@ -64,6 +64,10 @@ Reload Released in v30.20 (Not Streamed at the Time)
 
 - Surf City Update v39.00
 
+- Elite Stronghold Update v40.20
+
+- Simpsons Update v41.30
+
 Another Map is in Development Codenamed "CloudBerry" # Scrapped
 - Themed Around C2S2 (Grotto, Agency, Yacht, Rig, and Shark)
 - Spy Bases / Houses
